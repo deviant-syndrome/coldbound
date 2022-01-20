@@ -23,6 +23,7 @@
     "html-webpack-inline-svg-plugin": "^2.3.0",
     "html-webpack-plugin": "^5.5.0",
     "jest": "^27.4.7",
+    "jest-sonar-reporter": "^2.0.0",
     "mini-css-extract-plugin": "^2.4.5",
     "sass": "^1.43.5",
     "sass-loader": "^12.3.0",
@@ -37,7 +38,10 @@
     "moduleNameMapper": {
       "d3": "<rootDir>/node_modules/d3/dist/d3.min.js"
     },
-    "moduleDirectories": ["node_modules"]
+    "moduleDirectories": [
+      "node_modules"
+    ],
+    "testResultsProcessor": "jest-sonar-reporter"
   },
   "dependencies": {
     "d3": "^7.1.1",

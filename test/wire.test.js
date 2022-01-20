@@ -15,32 +15,32 @@ SVGElement.prototype.getBBox = jest.fn(() => {
 SVGElement.prototype.addEventListener = jest.fn(() => {
     console.info("HECK HECK");
 })
-
-jest.mock('d3', ()=>{
-
-    let wrappedD3 = jest.requireActual('d3');
-
-    var d3Mock = {
-        drag: undefined,
-        event: wrappedD3.event,
-        select: wrappedD3.select,
-        __passedEventHandlers: []
-    };
-
-    d3Mock.drag = ()=>{
-        let dragMock = {
-            apply: ()=>{}
-        };
-        dragMock.on = (event, eventHandler)=>{
-            d3Mock.__passedEventHandlers.push(eventHandler);
-            return dragMock;
-        }
-        return dragMock;
-    };
-
-    return d3Mock;
-
-});
+//
+// jest.mock('d3', ()=>{
+//
+//     let wrappedD3 = jest.requireActual('d3');
+//
+//     var d3Mock = {
+//         drag: undefined,
+//         event: wrappedD3.event,
+//         select: wrappedD3.select,
+//         __passedEventHandlers: []
+//     };
+//
+//     d3Mock.drag = ()=>{
+//         let dragMock = {
+//             apply: ()=>{}
+//         };
+//         dragMock.on = (event, eventHandler)=>{
+//             d3Mock.__passedEventHandlers.push(eventHandler);
+//             return dragMock;
+//         }
+//         return dragMock;
+//     };
+//
+//     return d3Mock;
+//
+// });
 
 document.body.innerHTML =
     '<div>' +
@@ -75,22 +75,22 @@ test('can wire slider', () => {
     console.info(elements)
 });
 
-it('enableDragAndDrop', ()=>{
-    let element = document.createElement('svg');
-    document.body.appendChild(element);
-
-    let svgSelection = d3.select(element);
-
-    sut.enableDragAndDrop(svgSelection);
-
-    spyOn(sut, '__dragStarted');
-    let dragStartedHandler = d3.__passedEventHandlers[0];
-    dragStartedHandler();
-    expect(sut.__dragStarted).toHaveBeenCalled();
-
-    spyOn(sut, '__dragged');
-    let draggedHandler = d3.__passedEventHandlers[1];
-    draggedHandler();
-    expect(sut.__dragged).toHaveBeenCalled();
-
-});
+// it('enableDragAndDrop', ()=>{
+//     let element = document.createElement('svg');
+//     document.body.appendChild(element);
+//
+//     let svgSelection = d3.select(element);
+//
+//     sut.enableDragAndDrop(svgSelection);
+//
+//     spyOn(sut, '__dragStarted');
+//     let dragStartedHandler = d3.__passedEventHandlers[0];
+//     dragStartedHandler();
+//     expect(sut.__dragStarted).toHaveBeenCalled();
+//
+//     spyOn(sut, '__dragged');
+//     let draggedHandler = d3.__passedEventHandlers[1];
+//     draggedHandler();
+//     expect(sut.__dragged).toHaveBeenCalled();
+//
+// });

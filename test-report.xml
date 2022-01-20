@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/test/sequencer.test.js">
+    <testCase name="sequencer can advance a step" duration="1"/>
+    <testCase name="sequencer initial step is 1" duration="2">
+      <failure message="Error: expect(received).toBe(expected) // Object.is equality"><![CDATA[Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 1
+Received: 2
+    at Object.<anonymous> (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/test/sequencer.test.js:14:18)
+    at Promise.then.completed (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)]]></failure>
+    </testCase>
+    <testCase name="sequencer maximum step is 16" duration="0">
+      <failure message="Error: expect(received).toBe(expected) // Object.is equality"><![CDATA[Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 16
+Received: 1
+    at Object.<anonymous> (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/test/sequencer.test.js:24:18)
+    at Promise.then.completed (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:66:9)
+    at run (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)]]></failure>
+    </testCase>
+  </file>
+  <file path="/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/test/wire.test.js">
+    <testCase name="can wire slider" duration="23"/>
+  </file>
+</testExecutions>
