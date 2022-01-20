@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "build": "webpack",
     "serve": "webpack serve",
     "postinstall": "patch-package"
@@ -41,7 +41,8 @@
     "moduleDirectories": [
       "node_modules"
     ],
-    "testResultsProcessor": "jest-sonar-reporter"
+    "testResultsProcessor": "jest-sonar-reporter",
+    "collectCoverage": true
   },
   "dependencies": {
     "d3": "^7.1.1",

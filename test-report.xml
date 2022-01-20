@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
   <file path="/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/test/sequencer.test.js">
-    <testCase name="sequencer can advance a step" duration="1"/>
+    <testCase name="sequencer can advance a step" duration="2"/>
     <testCase name="sequencer initial step is 1" duration="2">
       <failure message="Error: expect(received).toBe(expected) // Object.is equality"><![CDATA[Error: expect(received).toBe(expected) // Object.is equality
 
@@ -18,7 +18,7 @@ Received: 2
     at run (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/run.js:25:3)
     at runAndTransformResultsToJestFormat (/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)]]></failure>
     </testCase>
-    <testCase name="sequencer maximum step is 16" duration="0">
+    <testCase name="sequencer maximum step is 16" duration="1">
       <failure message="Error: expect(received).toBe(expected) // Object.is equality"><![CDATA[Error: expect(received).toBe(expected) // Object.is equality
 
 Expected: 16
@@ -36,6 +36,6 @@ Received: 1
     </testCase>
   </file>
   <file path="/Users/andrei.katkov/VampirskyLes/repos/dsp/rancidRack2/test/wire.test.js">
-    <testCase name="can wire slider" duration="23"/>
+    <testCase name="can wire slider" duration="17"/>
   </file>
 </testExecutions>
