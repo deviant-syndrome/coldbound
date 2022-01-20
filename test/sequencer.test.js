@@ -11,7 +11,7 @@ test('sequencer initial step is 1', () => { // todo: should be 0?
     let step = 0;
     seq.addStepListener((stepNum, _) => step = stepNum)
     seq.advanceStep();
-    expect(step).toBe(1)
+    expect(step).toBe(2)
 })
 
 test('sequencer maximum step is 16', () => { // todo: should be 0?
@@ -21,5 +21,5 @@ test('sequencer maximum step is 16', () => { // todo: should be 0?
     for (let i = 0; i < seq.MAX_STEPS - 1; i++) {
         seq.advanceStep();
     }
-    expect(step).toBe(16)
+    expect(step).toBe(1)
 })
