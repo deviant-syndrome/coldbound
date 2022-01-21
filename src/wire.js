@@ -3,7 +3,7 @@ import * as svgKnob from 'svg-knob'
 import {LEDEncoder} from "led-bus";
 
 let svg = d3.select("body > div > svg")
-let led = d3.select("#led-screen")
+let led = d3.select("#led-display")
 
 let toggled = d3.local()
 
