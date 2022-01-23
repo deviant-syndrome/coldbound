@@ -1,6 +1,6 @@
 import * as ui from "./ui"
 import { addMidiTickListener } from "./midi"
-import * as seq from "./sequencer"
+import * as seq from "./sequencer/editor"
 import 'sassy'
 
 function init(win) {

@@ -1,5 +1,5 @@
 import * as wire from './wire'
-import { addStepListener, toggleStep } from "./sequencer"
+import { addStepListener, toggleStep } from "./sequencer/editor"
 import { ping } from "./osc"
 
 let stepBeams = []
