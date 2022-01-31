@@ -1,6 +1,7 @@
 import * as wire from './wire'
 import { addStepListener, toggleStep } from "./sequencer/editor"
 import { ping } from "./osc"
+import * as areas from "./ui/controlAreas"
 
 let stepBeams = []
 let readOut = undefined
@@ -26,7 +27,7 @@ function wireSteps() {
 function wireStepBeams() {
     // todo: decide between 0-15 and 1-16 once and for all
     for (let i = 1; i <= 16; i++) {
-        stepBeams.push(wire.wireBeam(`stepBeam${i}`))
+        stepBeams.push(wire.wireBeam(areas.STEP, i))
     }
     addStepListener((pos) => {
         stepBeams[pos - 1].blink()
@@ -38,7 +39,7 @@ function wireKnobs() {
 }
 
 function wireSliders() {
-    wire.wireSlider("slider1", x => {})
+    wire.wireSlider(1, x => {})
 }
 
 function wireLed() {

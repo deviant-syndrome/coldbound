@@ -1,8 +1,7 @@
 const SLIDER = "slider"
-const TUNE = "tune"
 const KNOB = "Knob"
-const STEP_TOGGLE = ""
-const BEAM = "beam"
+const BEAM = "Beam"
+const TOGGLE = "" // todo: fixme
 
 function slider(index) {
     return `#${SLIDER}${index}`
@@ -16,9 +15,17 @@ function knob(type, index) {
     return `#${type}${KNOB}${index}`
 }
 
+function beam(type, index) {
+    return `#${type}${BEAM}${index}`
+}
+
+function step(index) {
+
+}
+
 export {
     slider,
     sliderHead,
     knob,
-    TUNE
+    beam,
 }
