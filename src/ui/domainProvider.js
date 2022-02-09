@@ -25,6 +25,7 @@ function getDomain(selector) {
             attr: (k, v) => children.attr(k, v),
           };
         },
+        interrupt: _ => implementation.interrupt()
       };
     },
     attr: (k, v) => implementation.attr(k, v),

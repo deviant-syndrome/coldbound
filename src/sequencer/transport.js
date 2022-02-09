@@ -16,6 +16,7 @@ let state = {};
 function resetState() {
   state = { ...DEFAULT_STATE };
 }
+
 function toggleTransport() {
   state.transport = !state.transport;
 }
@@ -39,6 +40,10 @@ function getCurrentStep() {
 
 function getCurrentPattern() {
   return state.pattern;
+}
+
+function setCurrentPattern(index) {
+  state.pattern = index
 }
 
 function getNextStep() {
@@ -97,6 +102,7 @@ export {
   toggleTransport,
   getCurrentStep,
   getCurrentPattern,
+  setCurrentPattern,
   TRANSPORT_MODE_LOOP,
   TRANSPORT_MODE_SONG,
   TRANSPORT_MODE_STUTTER,
