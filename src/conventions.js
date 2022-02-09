@@ -1,7 +1,4 @@
-const ON = "on"
-const OFF = "off"
+const ON = "on";
+const OFF = "off";
 
-export {
-    ON,
-    OFF
-}
+export { ON, OFF };

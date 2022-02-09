@@ -1,5 +1,3 @@
-const STEP = "step"
+const STEP = "step";
 
-export {
-    STEP
-}
+export { STEP };

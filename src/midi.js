@@ -1,48 +1,47 @@
-navigator.requestMIDIAccess()
-    .then(onMIDISuccess, onMIDIFailure);
+navigator.requestMIDIAccess().then(onMIDISuccess, onMIDIFailure);
 
-let midiTickCallbacks = []
+let midiTickCallbacks = [];
 
-var ppqCount = 11
-var start = false
+var ppqCount = 11;
+var start = false;
 
 function onMIDISuccess(midiAccess) {
-    var inputs = midiAccess.inputs;
-    var outputs = midiAccess.outputs;
+  var inputs = midiAccess.inputs;
+  var outputs = midiAccess.outputs;
 
-    for (var input of inputs.values()) {
-        input.onmidimessage = event => {
-            handlePPQClock(event)
-        }
-    }
+  for (var input of inputs.values()) {
+    input.onmidimessage = (event) => {
+      handlePPQClock(event);
+    };
+  }
 }
 
 function handlePPQClock(event) {
-    // todo: constants instead of hardcode
-    if (event.data[0] === 250)  {
-        console.log("start")
-        start = true
-    } else {
-        if (start) {
-            if (event.data[0] === 248) {
-                ppqCount++
-                if (ppqCount > 11) {
-                    ppqCount = 0;
-                    midiTickCallbacks.forEach(cb => cb())
-                }
-            }
+  // todo: constants instead of hardcode
+  if (event.data[0] === 250) {
+    console.log("start");
+    start = true;
+  } else {
+    if (start) {
+      if (event.data[0] === 248) {
+        ppqCount++;
+        if (ppqCount > 11) {
+          ppqCount = 0;
+          midiTickCallbacks.forEach((cb) => cb());
         }
+      }
     }
+  }
 }
 
 function onMIDIFailure() {
-    console.log('Could not access your MIDI devices.');
+  console.log("Could not access your MIDI devices.");
 }
 
 function executeCallbacks() {
-    midiTickCallbacks.forEach(cb => cb())
+  midiTickCallbacks.forEach((cb) => cb());
 }
 
 export function addMidiTickListener(listener) {
-    midiTickCallbacks.push(listener)
+  midiTickCallbacks.push(listener);
 }

@@ -1,6 +1,6 @@
-const binUtils = require("../../src/sequencer/bitUtils")
+const binUtils = require("../../src/sequencer/bitUtils");
 
-test('can set bits', () => {
-    let bitsSet = binUtils.setBits(0, [4])
-    expect(binUtils.getSetBitsPositions(bitsSet)).toStrictEqual([4])
-})
+test("can set bits", () => {
+  let bitsSet = binUtils.setBits(0, [4]);
+  expect(binUtils.getSetBitsPositions(bitsSet)).toStrictEqual([4]);
+});

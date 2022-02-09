@@ -1,4 +1,3 @@
-import { init } from "./init"
+import { init } from "./init";
 
-init(window)
-
+init(window);
