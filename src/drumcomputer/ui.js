@@ -23,7 +23,7 @@ function init() {
 
 function wireSteps() {
   for (let i = 1; i <= 16; i++) {
-    wire.wireToggle(`step${i}`, (w) => {
+    wire.wireToggle(`step`, i, (w) => {
       toggleStep(i - 1);
     });
   }
