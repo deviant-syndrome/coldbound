@@ -2,15 +2,7 @@
  * @jest-environment jsdom
  */
 const knob = require("../../../src/ui/controls/knob")
-
-SVGElement.prototype.getBBox = jest.fn(() => {
-    return {
-        x: 1,
-        y: 1,
-        width: 42,
-        height: 42
-    }
-})
+const {TEST_DOMAIN} = require("../uiTestBootstrap");
 
 document.body.innerHTML =
     '<div>' +
@@ -29,7 +21,7 @@ const createBubbledEvent = (type, props = {}) => {
 
 test('can wire knob', () => {
     let callbackExecuted = false
-    knob.wire("tune", 1, () => {
+    knob.wire(TEST_DOMAIN,"tune", 1, () => {
         callbackExecuted = true
     })
     let node = document.querySelector("#tuneKnob1")

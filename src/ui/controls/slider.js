@@ -1,21 +1,19 @@
-import * as d3 from "d3";
 import * as ct from '../controlTypes'
+import d3importer from "../../d3importer";
 
-let svg = d3.select("body > div > svg")
-
-function wire(index, ctrl) {
+function wire(domain, index, ctrl) {
     let sliderSel = ct.slider(index)
     let sliderHeadSel = ct.sliderHead(index)
 
-    let height = d3.select(sliderSel)
+    let height = domain.select(sliderSel)
         .node()
         .getBBox().height * 0.85;
 
-    let offsetY = d3.select(sliderHeadSel)
+    let offsetY = domain.select(sliderHeadSel)
         .node()
         .getBBox().y
 
-    let scale = d3.scaleLinear()
+    let scale = d3importer.scaleLinear()
         .domain([offsetY, offsetY + parseInt(height)])
         .range([0, height])
         .clamp(true);
@@ -25,9 +23,9 @@ function wire(index, ctrl) {
         ctrl(scale.invert(y));
     }
 
-    let handle = svg.select(sliderHeadSel)
+    let handle = domain.select(sliderHeadSel)
         .attr("class", "handle")
-        .call(d3.drag()
+        .call(domain.drag()
             .on("start.interrupt", function () {
                 handle.interrupt();
             })

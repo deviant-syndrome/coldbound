@@ -5,6 +5,8 @@ module.exports = exports = {
         "es6": true
     },
 
+    "parser": "@babel/eslint-parser",
+
     "parserOptions": {
         "sourceType": "module",
     },
@@ -33,13 +35,13 @@ module.exports = exports = {
         // Best Practices
 
         // Allowed a getter without setter, but all setters require getters
-        "accessor-pairs": [ OFF, {
+        "accessor-pairs": [ ERROR, {
             "getWithoutSet": false,
             "setWithoutGet": true
         }],
-        "block-scoped-var": OFF,
-        "consistent-return": OFF,
-        "curly": OFF,
+        "block-scoped-var": ERROR,
+        "consistent-return": ERROR,
+        "curly": ERROR,
         "default-case": OFF,
         // the dot goes with the property when doing multiline
         "dot-location": [ OFF, "property" ],

@@ -19,8 +19,8 @@ function beam(type, index) {
     return `#${type}${BEAM}${index}`
 }
 
-function step(index) {
-
+function toggle(type, index) {
+    return `#${type}${TOGGLE}${index}`
 }
 
 export {
@@ -28,4 +28,5 @@ export {
     sliderHead,
     knob,
     beam,
+    toggle
 }

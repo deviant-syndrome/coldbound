@@ -1,11 +1,10 @@
 import * as svgKnob from "svg-knob";
-import * as d3 from 'd3'
 import * as ct from '../controlTypes'
 
-function wire(type, index, ctrl) {
+function wire(domain, type, index, ctrl) {
     let knobSel = ct.knob(type, index)
 
-    let knobBBox = d3.select(knobSel)
+    let knobBBox = domain.select(knobSel)
         .node()
         .getBBox()
 

@@ -25,6 +25,7 @@
     "jest": "^27.4.7",
     "jest-sonar-reporter": "^2.0.0",
     "mini-css-extract-plugin": "^2.4.5",
+    "prettier": "^2.5.1",
     "sass": "^1.43.5",
     "sass-loader": "^12.3.0",
     "webpack": "^5.63.0",
@@ -32,7 +33,10 @@
     "webpack-dev-server": "^4.4.0"
   },
   "dependencies": {
-    "d3": "^7.1.1",
+    "@babel/eslint-parser": "^7.17.0",
+    "d3-drag": "^3.0.0",
+    "d3-scale": "^4.0.2",
+    "d3-selection": "^3.0.0",
     "led-bus": "git+https://github.com/deviant-syndrome/led-bus.git",
     "osc": "^2.4.2",
     "patch-package": "^6.4.7",

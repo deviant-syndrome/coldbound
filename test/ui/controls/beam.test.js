@@ -3,6 +3,7 @@
  */
 
 const beam = require("../../../src/ui/controls/beam")
+const {TEST_DOMAIN} = require("../uiTestBootstrap");
 
 jest.useFakeTimers();
 
@@ -11,7 +12,7 @@ document.body.innerHTML =
     '</div>';
 
 test('can wire beam and it blinks', () => {
-    beam.wire("step", 1).blink()
+    beam.wire(TEST_DOMAIN,"step", 1).blink()
 
     let b = document.querySelector("#stepBeam1")
 

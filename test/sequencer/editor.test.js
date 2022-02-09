@@ -55,12 +55,3 @@ test("sequencer toggle function works like a toggle", () => {
     editor.advanceStep()
     expect(toggledChannels).toStrictEqual([])
 })
-
-
-// todo:
-// the package name should be sequencer
-// this module should be editor.
-// Thus, sequencer consist of
-//     * memory
-//     * transport
-//     * editor

@@ -1,13 +1,8 @@
-import * as ui from "./ui"
-import { addMidiTickListener } from "./midi"
-import * as seq from "./sequencer/editor"
 import 'sassy'
+import * as drumcomputer from "./drumcomputer/drumcomputer";
 
 function init(win) {
-   // init console
-   // init midi
-   addMidiTickListener(seq.advanceStep)
-   ui.init()
+   drumcomputer.init(win)
 }
 
 export { init }

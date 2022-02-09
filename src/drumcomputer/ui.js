@@ -1,7 +1,7 @@
 import * as wire from './wire'
-import { addStepListener, toggleStep } from "./sequencer/editor"
-import { ping } from "./osc"
-import * as areas from "./ui/controlAreas"
+import { addStepListener, toggleStep } from "../sequencer/editor"
+import { ping } from "../osc"
+import * as areas from "../ui/controlAreas"
 
 let stepBeams = []
 let readOut = undefined
@@ -14,7 +14,9 @@ function init() {
     wireLed()
 
     addStepListener((pos, toggle) => { // todo: ddStepListener(channel, (pos, toggle) =>
-        if (toggle) ping()
+        if (toggle) {
+            ping()
+        }
     })
 }
 

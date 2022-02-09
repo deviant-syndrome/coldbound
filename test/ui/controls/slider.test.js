@@ -2,7 +2,7 @@
  * @jest-environment jsdom
  */
 const slider = require("../../../src/ui/controls/slider")
-const d3 = require("d3");
+const {TEST_DOMAIN} = require("../uiTestBootstrap");
 
 SVGElement.prototype.getBBox = jest.fn(() => {
     return {
@@ -24,37 +24,11 @@ document.body.innerHTML =
     '</div>';
 
 
-jest.mock('d3', () => {
-
-    let wrappedD3 = jest.requireActual('d3');
-
-    var d3Mock = {
-        drag: undefined,
-        event: wrappedD3.event,
-        select: wrappedD3.select,
-        scaleLinear: wrappedD3.scaleLinear,
-        __passedEventHandlers: []
-    };
-
-    d3Mock.drag = () => {
-        let dragMock = {
-            apply: () => {}
-        };
-        dragMock.on = (event, eventHandler) => {
-            d3Mock.__passedEventHandlers.push(eventHandler);
-            return dragMock;
-        }
-        return dragMock;
-    };
-
-    return d3Mock;
-
-});
 
 test('can wire slider', () => {
    let callbackExecuted = false
-   slider.wire(1, () => { callbackExecuted = true })
-   let dragStartedHandler = d3.__passedEventHandlers[1];
+   slider.wire(TEST_DOMAIN, 1, () => { callbackExecuted = true })
+   let dragStartedHandler = TEST_DOMAIN.__passedEventHandlers[1];
    dragStartedHandler({ y: 42 });
    expect(callbackExecuted).toBe(true)
 })

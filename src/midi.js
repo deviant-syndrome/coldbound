@@ -10,10 +10,11 @@ function onMIDISuccess(midiAccess) {
     var inputs = midiAccess.inputs;
     var outputs = midiAccess.outputs;
 
-    for (var input of inputs.values())
+    for (var input of inputs.values()) {
         input.onmidimessage = event => {
             handlePPQClock(event)
         }
+    }
 }
 
 function handlePPQClock(event) {

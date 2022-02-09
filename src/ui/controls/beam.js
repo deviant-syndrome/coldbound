@@ -1,8 +1,7 @@
-import * as d3 from 'd3'
 import * as ct from '../controlTypes'
 
-export function wire(type, index) {
-    let beam = d3.select(ct.beam(type, index))
+export function wire(domain, type, index) {
+    let beam = domain.select(ct.beam(type, index))
     return {
         blink: () => {
             beam.attr("class", "beam-on")
