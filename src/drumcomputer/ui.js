@@ -30,7 +30,6 @@ function wireSteps() {
 }
 
 function wireStepBeams() {
-  // todo: decide between 0-15 and 1-16 once and for all
   for (let i = 1; i <= 16; i++) {
     stepBeams.push(wire.wireBeam(areas.STEP, i));
   }

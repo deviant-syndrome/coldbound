@@ -6,6 +6,8 @@ const fs = require("fs");
 const path = require("path");
 const drumcomputer = require("../../src/drumcomputer/drumcomputer");
 
+const toggle = require("../../src/ui/controls/toggle");
+
 let root = path.resolve(__dirname, "../..");
 let knobs = fs
   .readFileSync(root + "/images/sliced/controls/004_knobs.svg")
@@ -34,6 +36,13 @@ jest.mock("../../src/midi/midiProvider", () => {
   };
 });
 
+jest.mock('../../src/ui/controls/toggle', () => {
+  const original = jest. requireActual('../../src/ui/controls/toggle')
+  return {
+     wire: jest.fn(original.wire)
+  }
+})
+
 jest.mock("../../src/ui/d3DomainImpl", () => {
   let wrappedProvider = jest.requireActual("../../src/ui/d3DomainImpl");
   return {
@@ -56,5 +65,6 @@ SVGElement.prototype.getBBox = jest.fn(() => {
 
 test("Drum computer passes POST", () => {
   drumcomputer.init();
+  expect(toggle.wire).toBeCalledTimes(16);
   expect(knobs.length > 0).toBe(true);
 });
