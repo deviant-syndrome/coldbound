@@ -1,4 +1,6 @@
-navigator.requestMIDIAccess().then(onMIDISuccess, onMIDIFailure);
+import { requestMIDIAccess } from "./midi/midiProvider";
+
+requestMIDIAccess().then(onMIDISuccess, onMIDIFailure);
 
 let midiTickCallbacks = [];
 
@@ -6,8 +8,8 @@ var ppqCount = 11;
 var start = false;
 
 function onMIDISuccess(midiAccess) {
-  var inputs = midiAccess.inputs;
-  var outputs = midiAccess.outputs;
+  let inputs = midiAccess.inputs;
+  let outputs = midiAccess.outputs;
 
   for (var input of inputs.values()) {
     input.onmidimessage = (event) => {

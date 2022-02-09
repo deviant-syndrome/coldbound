@@ -11,7 +11,7 @@ function wireReadout() {
   return new LEDEncoder(
     5,
     (displayNum, segmentCode, on) => {
-      let svgEl = led.select(`#led${displayNum + 1}_${segmentCode}`);
+      let svgEl = domain.select(`#led${displayNum + 1}_${segmentCode}`);
       if (on) {
         svgEl.attr("class", "glowing-led").attr("style", "fill:red;");
       } else {
@@ -24,9 +24,9 @@ function wireReadout() {
   );
 }
 
-let wireSlider = slider.wire;
-let wireKnob = knob.wire;
-let wireBeam = beam.wire.bind(domain, null);
-let wireToggle = toggle.wire;
+let wireSlider = slider.wire.bind(null, domain);
+let wireKnob = knob.wire.bind(null, domain);
+let wireBeam = beam.wire.bind(null, domain);
+let wireToggle = toggle.wire.bind(null, domain);
 
 export { wireSlider, wireToggle, wireBeam, wireKnob, wireReadout };

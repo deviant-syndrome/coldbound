@@ -15,6 +15,8 @@ jest.mock("../../src/ui/d3DomainImpl", () => {
     getDomainAgnosticImplementation:
       wrappedProvider.getDomainAgnosticImplementation,
     getImplementation: wrappedProvider.getDomainAgnosticImplementation,
+    getElementAccessSupport: wrappedProvider.getElementAccessSupport,
+    getDragSupport: wrappedProvider.getDragSupport,
   };
 });
 

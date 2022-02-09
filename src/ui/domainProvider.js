@@ -1,4 +1,8 @@
-import { getImplementation } from "./d3DomainImpl";
+import {
+  getImplementation,
+  getElementAccessSupport,
+  getDragSupport,
+} from "./d3DomainImpl";
 
 function getDomain(selector) {
   let implementation = getImplementation(selector);
@@ -6,8 +10,14 @@ function getDomain(selector) {
     select: (s) => {
       let el = implementation.select(s);
       return {
-        attr: (k, v) => el.attr(k, v),
-        node: (_) => el.node(),
+        attr: (k, v) => {
+          let res = el.attr(k, v);
+          return {
+            attr: (k, v) => res.attr(k, v),
+            call: (c) => res.call(c),
+          };
+        },
+        node: (_) => getElementAccessSupport(el),
         on: (k, v) => el.on(k, v),
         selectChildren: (_) => {
           let children = el.selectChildren();
@@ -18,7 +28,7 @@ function getDomain(selector) {
       };
     },
     attr: (k, v) => implementation.attr(k, v),
-    drag: (_) => implementation.drag(),
+    drag: (_) => getDragSupport(),
   };
 }
 

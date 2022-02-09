@@ -40,7 +40,7 @@ function wireStepBeams() {
 }
 
 function wireKnobs() {
-  wire.wireKnob("tuneKnob1");
+  wire.wireKnob("tune", 1, (_) => {});
 }
 
 function wireSliders() {
