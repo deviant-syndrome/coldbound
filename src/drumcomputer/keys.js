@@ -1,5 +1,5 @@
 import {button} from '../ui/controlTypes'
-import {patternDown, patternUp} from "./functions";
+import {patternDown, patternUp} from "./functions/patternSelect";
 import {EXCLUSIVE, menu} from "./menu";
 
 let regularKeyMap = {}

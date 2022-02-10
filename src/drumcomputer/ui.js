@@ -1,9 +1,10 @@
 import * as wire from "./wire";
 import { addStepListener, toggleStep } from "../sequencer/editor";
-import { ping } from "../osc";
 import * as areas from "../ui/controlAreas";
 import {keyScan} from "./keys";
-import {addPatternChangeListener} from "./functions";
+import {addPatternChangeListener} from "./functions/patternSelect";
+import {send} from "../osc/oscTransport";
+import {trigger} from "../osc/oscCommandBuilders";
 
 let stepBeams = [];
 let readOut = undefined;
@@ -23,7 +24,7 @@ function init() {
   addStepListener((pos, toggle) => {
     // todo: ddStepListener(channel, (pos, toggle) =>
     if (toggle) {
-      ping();
+      send(trigger("kick"))
     }
   });
 }

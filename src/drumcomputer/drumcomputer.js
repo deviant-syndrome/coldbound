@@ -1,9 +1,9 @@
 import * as ui from "./ui";
-import { addMidiTickListener } from "../midi";
 import * as seq from "../sequencer/editor";
+import {addPPQTickListener, PPQ12} from "../midi/midiTransport";
 
 function init() {
-  addMidiTickListener(seq.advanceStep);
+  addPPQTickListener(PPQ12, seq.advanceStep);
   ui.init();
 }
 

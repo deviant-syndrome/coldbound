@@ -1,4 +1,4 @@
-import {getCurrentPattern, setCurrentPattern} from "../sequencer/transport";
+import {getCurrentPattern, setCurrentPattern} from "../../sequencer/transport";
 
 let patterChangeListeners = []
 
