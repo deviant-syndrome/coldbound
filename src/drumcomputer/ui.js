@@ -1,10 +1,10 @@
 import * as wire from "./wire";
 import { addStepListener, toggleStep } from "../sequencer/editor";
 import * as areas from "../ui/controlAreas";
-import {keyScan} from "./keys";
-import {addPatternChangeListener} from "./functions/patternSelect";
-import {send} from "../osc/oscTransport";
-import {trigger} from "../osc/oscCommandBuilders";
+import { keyScan } from "./keys";
+import { addPatternChangeListener } from "./functions/patternSelect";
+import { send } from "../osc/oscTransport";
+import { trigger } from "../osc/oscCommandBuilders";
 
 let stepBeams = [];
 let readOut = undefined;
@@ -17,14 +17,14 @@ function init() {
   wireLed();
   wireButtons();
 
-  addPatternChangeListener(p => {
-    console.info("pattern is ", p)
-  })
+  addPatternChangeListener((p) => {
+    console.info("pattern is ", p);
+  });
 
   addStepListener((pos, toggle) => {
     // todo: ddStepListener(channel, (pos, toggle) =>
     if (toggle) {
-      send(trigger("kick"))
+      send(trigger("kick"));
     }
   });
 }
@@ -47,8 +47,8 @@ function wireStepBeams() {
 }
 
 function wireButtons() {
-  wire.wireButton("Up", keyScan)
-  wire.wireButton("Down", keyScan)
+  wire.wireButton("Up", keyScan);
+  wire.wireButton("Down", keyScan);
 }
 
 function wireKnobs() {

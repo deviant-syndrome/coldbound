@@ -31,5 +31,4 @@ let wireBeam = beam.wire.bind(null, domain);
 let wireToggle = toggle.wire.bind(null, domain);
 let wireButton = button.wire.bind(null, domain);
 
-
 export { wireSlider, wireToggle, wireBeam, wireKnob, wireButton, wireReadout };

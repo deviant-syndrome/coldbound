@@ -5,7 +5,7 @@ let oscWebSocket = new osc.WebSocketPort({
   metadata: true,
 });
 
-oscWebSocket.on("ready", signalOpen());
+oscWebSocket.on("ready", signalOpen);
 
 oscWebSocket.on("error", function (e) {
   console.error(e.message);
@@ -14,12 +14,11 @@ oscWebSocket.on("error", function (e) {
 oscWebSocket.open();
 
 function signalOpen() {
-  console.info("Websocket transport connected")
+  console.info("Websocket transport connected");
 }
 
 function send(message) {
-    oscWebSocket.send(message)
+  oscWebSocket.send(message);
 }
 
-export { send }
-
+export { send };

@@ -2,7 +2,7 @@ const SLIDER = "slider";
 const KNOB = "Knob";
 const BEAM = "Beam";
 const TOGGLE = ""; // todo: fixme
-const BUTTON = "btn"
+const BUTTON = "btn";
 
 function slider(index) {
   return `#${SLIDER}${index}`;
@@ -25,7 +25,7 @@ function toggle(type, index) {
 }
 
 function button(func) {
-  return `#${BUTTON}${func}`
+  return `#${BUTTON}${func}`;
 }
 
 export { slider, sliderHead, knob, beam, toggle, button };

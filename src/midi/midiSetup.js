@@ -1,5 +1,5 @@
 import { requestMIDIAccess } from "./midiProvider";
-import {handleTransport} from "./midiTransport";
+import { handleTransport } from "./midiTransport";
 
 requestMIDIAccess().then(onMIDISuccess, onMIDIFailure);
 
@@ -8,7 +8,7 @@ function onMIDISuccess(midiAccess) {
 
   for (let input of inputs.values()) {
     input.onmidimessage = (event) => {
-      handleTransport(event)
+      handleTransport(event);
     };
   }
 }

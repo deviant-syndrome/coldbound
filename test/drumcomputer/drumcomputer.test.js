@@ -36,12 +36,12 @@ jest.mock("../../src/midi/midiProvider", () => {
   };
 });
 
-jest.mock('../../src/ui/controls/toggle', () => {
-  const original = jest. requireActual('../../src/ui/controls/toggle')
+jest.mock("../../src/ui/controls/toggle", () => {
+  const original = jest.requireActual("../../src/ui/controls/toggle");
   return {
-     wire: jest.fn(original.wire)
-  }
-})
+    wire: jest.fn(original.wire),
+  };
+});
 
 jest.mock("../../src/ui/d3DomainImpl", () => {
   let wrappedProvider = jest.requireActual("../../src/ui/d3DomainImpl");

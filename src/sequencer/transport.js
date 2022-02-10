@@ -43,7 +43,7 @@ function getCurrentPattern() {
 }
 
 function setCurrentPattern(index) {
-  state.pattern = index
+  state.pattern = index;
 }
 
 function getNextStep() {

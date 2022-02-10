@@ -1,5 +1,5 @@
 function trigger(name) {
-    return {
+  return {
     address: "/s_new",
     args: [
       {
@@ -19,7 +19,7 @@ function trigger(name) {
         value: 0,
       },
     ],
-  }
+  };
 }
 
-export { trigger }
+export { trigger };

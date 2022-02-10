@@ -21,7 +21,7 @@ document.body.innerHTML =
   '       <rect id="slider1-head"></rect>' +
   "  </g>" +
   "</svg>" +
-  "</div>"
+  "</div>";
 
 test("can wire slider", () => {
   let callbackExecuted = false;
@@ -30,5 +30,5 @@ test("can wire slider", () => {
   });
   let dragStartedHandler = TEST_DOMAIN.__passedEventHandlers[1];
   dragStartedHandler({ y: 42 });
-  expect(callbackExecuted).toBe(true)
+  expect(callbackExecuted).toBe(true);
 });

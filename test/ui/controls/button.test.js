@@ -5,7 +5,8 @@
 const button = require("../../../src/ui/controls/button");
 const { TEST_DOMAIN } = require("../uiTestBootstrap");
 
-document.body.innerHTML = '<div id="btnStart">' + "   <div>Hello</div>" + "</div>";
+document.body.innerHTML =
+  '<div id="btnStart">' + "   <div>Hello</div>" + "</div>";
 
 const createBubbledEvent = (type, props = {}) => {
   const event = new Event(type, { bubbles: true });

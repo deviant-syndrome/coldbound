@@ -1,5 +1,9 @@
-import {addPatternChangeListener, patternDown, patternUp} from "../../../src/drumcomputer/functions/patternSelect";
-import {getCurrentPattern} from "../../../src/sequencer/transport";
+import {
+  addPatternChangeListener,
+  patternDown,
+  patternUp,
+} from "../../../src/drumcomputer/functions/patternSelect";
+import { getCurrentPattern } from "../../../src/sequencer/transport";
 const editor = require("../../../src/sequencer/editor");
 const transport = require("../../../src/sequencer/transport");
 
@@ -9,23 +13,23 @@ beforeEach(() => {
 });
 
 test("can navigate to the next pattern", () => {
-    patternUp();
-    expect(getCurrentPattern()).toBe(1)
-})
+  patternUp();
+  expect(getCurrentPattern()).toBe(1);
+});
 
 test("can navigate to the previous pattern", () => {
-    patternUp();
-    patternDown();
-    expect(getCurrentPattern()).toBe(0)
-})
+  patternUp();
+  patternDown();
+  expect(getCurrentPattern()).toBe(0);
+});
 
 test("can attach a pattern change listener", () => {
-    let callbackExecuted = false
-    addPatternChangeListener(() => {
-        callbackExecuted = true
-    })
+  let callbackExecuted = false;
+  addPatternChangeListener(() => {
+    callbackExecuted = true;
+  });
 
-    patternUp();
+  patternUp();
 
-    expect(callbackExecuted).toBe(true)
-})
+  expect(callbackExecuted).toBe(true);
+});
