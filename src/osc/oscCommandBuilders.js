@@ -4,7 +4,7 @@ function trigger(name) {
     args: [
       {
         type: "s",
-        value: "kick",
+        value: name,
       },
       {
         type: "i",

@@ -13,11 +13,6 @@ module.exports = exports = {
     sourceType: "module",
   },
 
-  ecmaFeatures: {
-    // env=es6 doesn't include modules, which we are using
-    modules: true,
-  },
-
   extends: "eslint:recommended",
 
   rules: {
@@ -50,20 +45,20 @@ module.exports = exports = {
     "block-scoped-var": ERROR,
     "consistent-return": ERROR,
     curly: ERROR,
-    "default-case": OFF,
+    "default-case": ERROR,
     // the dot goes with the property when doing multiline
-    "dot-location": [OFF, "property"],
-    "dot-notation": OFF,
+    "dot-location": [ERROR, "property"],
+    "dot-notation": ERROR,
     eqeqeq: [OFF, "smart"],
-    "guard-for-in": OFF,
-    "no-alert": OFF,
+    "guard-for-in": ERROR,
+    "no-alert": ERROR,
     "no-caller": OFF,
     "no-case-declarations": OFF,
     "no-div-regex": OFF,
-    "no-else-return": OFF,
+    "no-else-return": ERROR,
     "no-empty-label": OFF,
     "no-empty-pattern": OFF,
-    "no-eq-null": OFF,
+    "no-eq-null": ERROR,
     "no-eval": OFF,
     "no-extend-native": OFF,
     "no-extra-bind": OFF,
@@ -143,7 +138,7 @@ module.exports = exports = {
     "no-mixed-requires": OFF,
     "no-new-require": OFF,
     // Use path.concat instead
-    "no-path-concat": OFF,
+    "no-path-concat": ERROR,
     "no-process-exit": OFF,
     "no-restricted-modules": OFF,
     "no-sync": OFF,
