@@ -13,6 +13,9 @@
   &-toggle-on
     fill: #4697d7c7
 
+  &-button:active
+      animation: pressed 0.4s normal forwards
+
 #knobs
   left: 75.674px
   top: 261.849px
@@ -32,3 +35,11 @@
 
   to
     filter: drop-shadow( 0px 0px 10px #d35f5f)
+
+
+@keyframes pressed
+  0%, 100%
+    transform: translateY(0)
+
+  50%
+    transform: translateY(0.5px)
