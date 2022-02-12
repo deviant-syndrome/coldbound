@@ -1,27 +1,7 @@
+@use "src/drumcomputer/drumcomputer"
+
 body
   background: #313940
-
-.blink
-  animation: glow 0.2s infinite alternate
-
-.beam-on
-  fill: #d35f5f
-
-.beam-off
-  fill: none
-
-@keyframes glow
-  from
-    filter: drop-shadow( 0px 0px 0px #d35f5f)
-
-  to
-    filter: drop-shadow( 0px 0px 10px #d35f5f)
-
-.glowing-led
-  filter: drop-shadow(1.1px 0.8px 0.6px red)
-
-.toggle-on
-  fill: #4697d7c7
 
 .svg-overlay-wrap
   position: relative
@@ -30,18 +10,6 @@ body
 
 .svg-overlay-wrap svg
   position: absolute
-
-#knobs
-  left: 75.674px
-  top: 261.849px
-
-#led-display
-  left: 75px
-  top: 74px
-
-#buttons
-  left: 215px
-  top: 89px
 
 .svg-overlay-wrap img
   position: absolute

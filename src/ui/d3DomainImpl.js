@@ -38,9 +38,6 @@ function getNoElementAccessSupport() {
   };
 }
 
-//
-// get logic of retrieving SVG nodes
-
 export {
   getImplementation,
   getDomainAgnosticImplementation,

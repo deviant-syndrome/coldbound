@@ -6,7 +6,7 @@ import * as toggle from "../ui/controls/toggle";
 import * as button from "../ui/controls/button";
 import { getDomain } from "../ui/domainProvider";
 
-const domain = getDomain("#drumcomputer");
+const domain = getDomain("drumcomputer");
 
 function wireReadout() {
   return new LEDEncoder(
