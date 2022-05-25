@@ -34,12 +34,16 @@
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.17.0",
+    "bufferutil": "^4.0.6",
     "d3-drag": "^3.0.0",
     "d3-scale": "^4.0.2",
     "d3-selection": "^3.0.0",
     "led-bus": "git+https://github.com/deviant-syndrome/led-bus.git",
+    "net": "^1.0.2",
     "osc": "^2.4.2",
     "patch-package": "^6.4.7",
-    "svg-knob": "^1.15.0"
+    "svg-knob": "^1.15.0",
+    "tls": "^0.0.1",
+    "utf-8-validate": "^5.0.9"
   }
 }

@@ -1,13 +1,21 @@
 import * as wire from "./wire";
-import { addStepListener, toggleStep } from "../sequencer/editor";
+import {
+  addStepListener,
+  fillStepValues,
+  toggleStep,
+} from "../sequencer/editor";
 import * as areas from "../ui/controlAreas";
 import { keyScan } from "./keys";
 import { addPatternChangeListener } from "./functions/patternSelect";
 import { send } from "../osc/oscTransport";
 import { trigger } from "../osc/oscCommandBuilders";
+import { addTransport } from "./menu";
+import { getCurrentPattern } from "../sequencer/transport";
 
 let stepBeams = [];
+let steps = [];
 let readOut = undefined;
+let currentChannel = 0;
 
 function init() {
   wireSteps();
@@ -16,9 +24,10 @@ function init() {
   wireSliders();
   wireLed();
   wireButtons();
+  wireChannelSelectors();
 
   addPatternChangeListener((p) => {
-    console.info("pattern is ", p);
+    fillStepValues(steps, currentChannel);
   });
 
   addStepListener((pos, toggle) => {
@@ -31,9 +40,11 @@ function init() {
 
 function wireSteps() {
   for (let i = 1; i <= 16; i++) {
-    wire.wireToggle(`step`, i, (w) => {
-      toggleStep(i - 1);
-    });
+    steps.push(
+      wire.wireToggle(`step`, i, (w) => {
+        return toggleStep(getCurrentPattern(), i - 1, currentChannel);
+      })
+    );
   }
 }
 
@@ -59,9 +70,42 @@ function wireSliders() {
   wire.wireSlider(1, (x) => {});
 }
 
+function wireChannelSelectors() {
+  wire.wireToggle(
+    "channelToggle",
+    1,
+    () => {
+      currentChannel = 0;
+      fillStepValues(steps, currentChannel);
+      return true;
+    },
+    true
+  );
+  wire.wireToggle(
+    "channelToggle",
+    2,
+    () => {
+      currentChannel = 1;
+      fillStepValues(steps, currentChannel);
+      return true;
+    },
+    true
+  );
+}
+
 function wireLed() {
   readOut = wire.wireReadout();
-  readOut.sendScrollingText("Evil will always find you");
+  addTransport({
+    send: (t) => {
+      readOut.clear();
+      readOut.stopScrolling();
+      if (t.length > 5) {
+        readOut.sendScrollingText(t);
+      } else {
+        readOut.sendText(t);
+      }
+    },
+  });
 }
 
 export { init };

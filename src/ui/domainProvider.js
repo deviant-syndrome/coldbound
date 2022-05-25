@@ -6,11 +6,17 @@ import {
 
 import { idSelector } from "../dom";
 
+const CLASS = "class";
+
 function classPrefixMutator(k, v, func, domainName) {
-  if (domainName && k === "class") {
+  if (domainName && k === CLASS) {
     return func(k, `${domainName}-${v}`);
   }
   return func(k, v);
+}
+
+function classPrefixMutation(c, domainName) {
+  return classPrefixMutator(CLASS, c, (k, v) => v, domainName);
 }
 
 function getDomain(domainName) {
@@ -44,6 +50,10 @@ function getDomain(domainName) {
                 (kk, vv) => children.attr(kk, vv),
                 domainName
               ),
+            replaceClass: (c1, c2) => {
+              children.classed(classPrefixMutation(c1, domainName), false);
+              children.classed(classPrefixMutation(c2, domainName), true);
+            },
           };
         },
         interrupt: (_) => implementation.interrupt(),

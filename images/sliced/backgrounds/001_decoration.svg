@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    width="190.53908mm"
    height="103.32323mm"
    viewBox="0 0 190.53908 103.32323"
    version="1.1"
-   id="svg5664">
+   id="svg5664"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5658">
+    <linearGradient
+       id="linearGradient8767">
+      <stop
+         id="stop8763"
+         offset="0"
+         style="stop-color:#1e1e1e;stop-opacity:0.94" />
+      <stop
+         id="stop8765"
+         offset="1"
+         style="stop-color:#333333;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4298">
       <stop
@@ -68,7 +79,11 @@
     </linearGradient>
     <filter
        id="filter899"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873"
          result="result0"
@@ -131,7 +146,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter899-3">
+       id="filter899-3"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -194,7 +213,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter899-5">
+       id="filter899-5"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -257,7 +280,11 @@
     </filter>
     <filter
        id="filter899-5-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-2-4"
          result="result0"
@@ -329,16 +356,6 @@
          offset="1"
          id="stop3108" />
     </linearGradient>
-    <radialGradient
-       xlink:href="#linearGradient3110-9"
-       id="radialGradient5183-2"
-       cx="73.13311"
-       cy="162.2504"
-       fx="73.13311"
-       fy="162.2504"
-       r="2.9821339"
-       gradientTransform="matrix(1.1452619,0,0,0.37207995,-47.834138,-26.904865)"
-       gradientUnits="userSpaceOnUse" />
     <pattern
        patternTransform="matrix(0,-0.76192286,-16.37607,0,93.562088,7.1208248)"
        id="pattern4314"
@@ -357,15 +374,6 @@
          height="2"
          id="rect3317" />
     </pattern>
-    <linearGradient
-       xlink:href="#linearGradient3110-9"
-       id="linearGradient7425"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.6346479,0,0,1.0636149,-2.1251333,-117.84619)"
-       x1="58.323711"
-       y1="158.08421"
-       x2="62.698608"
-       y2="158.03633" />
     <linearGradient
        xlink:href="#linearGradient869-8-8"
        id="linearGradient7455"
@@ -395,7 +403,11 @@
        y2="136.99586" />
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter899-2">
+       id="filter899-2"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -458,7 +470,11 @@
     </filter>
     <filter
        id="filter899-3-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-9-0"
          result="result0"
@@ -521,7 +537,11 @@
     </filter>
     <filter
        id="filter899-5-86"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-2-6"
          result="result0"
@@ -584,7 +604,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter899-5-8-5">
+       id="filter899-5-8-5"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -683,7 +707,11 @@
        xlink:href="#linearGradient869-8-8" />
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter899-1">
+       id="filter899-1"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -746,7 +774,11 @@
     </filter>
     <filter
        id="filter899-3-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-9-4"
          result="result0"
@@ -809,7 +841,11 @@
     </filter>
     <filter
        id="filter899-5-3"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-2-9"
          result="result0"
@@ -872,7 +908,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter899-5-8-37">
+       id="filter899-5-8-37"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -971,7 +1011,11 @@
        xlink:href="#linearGradient869-8-8" />
     <filter
        id="filter899-1-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-3-2"
          result="result0"
@@ -1034,7 +1078,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter899-3-8-9">
+       id="filter899-3-8-9"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -1097,7 +1145,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter899-5-3-4">
+       id="filter899-5-3-4"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -1160,7 +1212,11 @@
     </filter>
     <filter
        id="filter899-5-8-37-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-2-4-1-2"
          result="result0"
@@ -1277,7 +1333,11 @@
     </pattern>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter76734">
+       id="filter76734"
+       x="-0.0012101891"
+       y="-0.0017767498"
+       width="1.0024204"
+       height="1.0035535">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -1319,721 +1379,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter76750">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76736" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76738" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76740" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76742" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76744" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76746" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76748" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76766">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76752" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76754" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76756" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76758" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76760" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76762" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76764" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76782">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76768" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76770" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76772" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76774" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76776" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76778" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76780" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76798">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76784" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76786" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76788" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76790" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76792" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76794" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76796" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76814">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76800" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76802" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76804" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76806" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76808" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76810" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76812" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76830">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76816" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76818" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76820" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76822" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76824" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76826" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76828" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76846">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76832" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76834" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76836" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76838" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76840" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76842" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76844" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76862">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76848" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76850" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76852" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76854" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76856" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76858" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76860" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76878">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76864" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76866" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76868" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76870" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76872" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76874" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76876" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76894">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76880" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76882" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76884" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76886" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76888" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76890" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76892" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76910">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76896" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76898" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76900" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76902" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76904" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76906" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76908" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76926">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76912" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76914" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76916" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76918" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76920" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76922" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76924" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76942">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76928" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76930" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76932" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76934" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76936" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76938" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76940" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76958">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76944" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76946" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76948" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76950" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76952" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76954" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76956" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76974">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76960" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76962" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76964" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76966" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76968" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76970" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76972" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter76990">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76976" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76978" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76980" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76982" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix76984" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite76986" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend76988" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter77006">
-      <feColorMatrix
-         in="SourceGraphic"
-         type="hueRotate"
-         values="333"
-         result="colormatrix1"
-         id="feColorMatrix76992" />
-      <feColorMatrix
-         type="matrix"
-         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
-         result="colormatrix2"
-         id="feColorMatrix76994" />
-      <feColorMatrix
-         type="hueRotate"
-         values="100"
-         result="colormatrix3"
-         id="feColorMatrix76996" />
-      <feBlend
-         in2="colormatrix3"
-         mode="normal"
-         result="blend1"
-         id="feBlend76998" />
-      <feColorMatrix
-         type="matrix"
-         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
-         result="colormatrix4"
-         id="feColorMatrix77000" />
-      <feComposite
-         in="colormatrix4"
-         in2="blend1"
-         operator="arithmetic"
-         k2="0.4"
-         result="composite1"
-         id="feComposite77002" />
-      <feBlend
-         in2="blend1"
-         mode="normal"
-         result="blend2"
-         id="feBlend77004" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter77070">
+       id="filter77070"
+       x="-0.02369846"
+       y="-0.065810959"
+       width="1.0236985"
+       height="1.1070979">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2075,7 +1425,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77118">
+       id="filter77118"
+       x="-0.0036079997"
+       y="-0.0085281758"
+       width="1.007216"
+       height="1.0170564">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2117,7 +1471,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77134">
+       id="filter77134"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2159,7 +1517,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77150">
+       id="filter77150"
+       x="-4.153435"
+       y="-2.5682409"
+       width="9.3068699"
+       height="6.1338066">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2201,7 +1563,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77166">
+       id="filter77166"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2243,7 +1609,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77182">
+       id="filter77182"
+       x="-4.1534351"
+       y="-2.5613905"
+       width="9.3068702"
+       height="6.1174457">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2285,7 +1655,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77198">
+       id="filter77198"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2327,7 +1701,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77214">
+       id="filter77214"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2369,7 +1747,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77230">
+       id="filter77230"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2411,7 +1793,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77246">
+       id="filter77246"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2453,7 +1839,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77262">
+       id="filter77262"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2495,7 +1885,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77278">
+       id="filter77278"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2537,7 +1931,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77294">
+       id="filter77294"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2579,7 +1977,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77310">
+       id="filter77310"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2621,7 +2023,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77326">
+       id="filter77326"
+       x="-0.0036079997"
+       y="-0.0085281758"
+       width="1.007216"
+       height="1.0170564">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2663,7 +2069,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77342">
+       id="filter77342"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2705,7 +2115,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77358">
+       id="filter77358"
+       x="-4.153435"
+       y="-2.5682409"
+       width="9.3068699"
+       height="6.1338066">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2747,7 +2161,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77374">
+       id="filter77374"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2789,7 +2207,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77390">
+       id="filter77390"
+       x="-4.1534351"
+       y="-2.5613905"
+       width="9.3068702"
+       height="6.1174457">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2831,7 +2253,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77406">
+       id="filter77406"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2873,7 +2299,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77422">
+       id="filter77422"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2915,7 +2345,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77438">
+       id="filter77438"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2957,7 +2391,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77454">
+       id="filter77454"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -2999,7 +2437,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77470">
+       id="filter77470"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3041,7 +2483,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77486">
+       id="filter77486"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3083,7 +2529,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77502">
+       id="filter77502"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3125,7 +2575,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77518">
+       id="filter77518"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3167,7 +2621,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77534">
+       id="filter77534"
+       x="-0.0036079997"
+       y="-0.0085281758"
+       width="1.007216"
+       height="1.0170564">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3209,7 +2667,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77550">
+       id="filter77550"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3251,7 +2713,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77566">
+       id="filter77566"
+       x="-4.153435"
+       y="-2.5682409"
+       width="9.3068699"
+       height="6.1338066">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3293,7 +2759,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77582">
+       id="filter77582"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3335,7 +2805,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77598">
+       id="filter77598"
+       x="-4.1534351"
+       y="-2.5613905"
+       width="9.3068702"
+       height="6.1174457">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3377,7 +2851,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77614">
+       id="filter77614"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3419,7 +2897,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77630">
+       id="filter77630"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3461,7 +2943,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77646">
+       id="filter77646"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3503,7 +2989,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77662">
+       id="filter77662"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3545,7 +3035,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77678">
+       id="filter77678"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3587,7 +3081,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77694">
+       id="filter77694"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3629,7 +3127,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77710">
+       id="filter77710"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3671,7 +3173,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77726">
+       id="filter77726"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3713,7 +3219,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77742">
+       id="filter77742"
+       x="-0.0036079997"
+       y="-0.0085281758"
+       width="1.007216"
+       height="1.0170564">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3755,7 +3265,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77758">
+       id="filter77758"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3797,7 +3311,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77774">
+       id="filter77774"
+       x="-4.153435"
+       y="-2.5682409"
+       width="9.3068699"
+       height="6.1338066">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3839,7 +3357,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77790">
+       id="filter77790"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3881,7 +3403,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77806">
+       id="filter77806"
+       x="-4.1534351"
+       y="-2.5613905"
+       width="9.3068702"
+       height="6.1174457">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3923,7 +3449,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77822">
+       id="filter77822"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3965,7 +3495,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77838">
+       id="filter77838"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4007,7 +3541,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77854">
+       id="filter77854"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4049,7 +3587,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77870">
+       id="filter77870"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4091,7 +3633,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77886">
+       id="filter77886"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4133,7 +3679,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77902">
+       id="filter77902"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4175,7 +3725,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77918">
+       id="filter77918"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4217,7 +3771,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77934">
+       id="filter77934"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4259,7 +3817,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77950">
+       id="filter77950"
+       x="0"
+       y="-0.015799651"
+       width="1.007728"
+       height="1.0315993">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4301,7 +3863,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77966">
+       id="filter77966"
+       x="0"
+       y="-0.015799651"
+       width="1.007728"
+       height="1.0315993">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4343,7 +3909,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       id="filter77982">
+       id="filter77982"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4385,7 +3955,11 @@
     </filter>
     <filter
        id="filter76734-6"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.0012107265"
+       y="-0.0017775387"
+       width="1.0024215"
+       height="1.0035551">
       <feColorMatrix
          id="feColorMatrix76720-1"
          result="colormatrix1"
@@ -4439,7 +4013,11 @@
        gradientTransform="translate(-9.2115864,-18.697836)" />
     <filter
        id="filter77070-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.023731425"
+       y="-0.065719598"
+       width="1.0237314"
+       height="1.1069507">
       <feColorMatrix
          id="feColorMatrix77056-8"
          result="colormatrix1"
@@ -4484,7 +4062,11 @@
     </filter>
     <filter
        id="filter76750-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          id="feColorMatrix76736-3"
          result="colormatrix1"
@@ -4529,7 +4111,11 @@
     </filter>
     <filter
        id="filter76766-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          id="feColorMatrix76752-8"
          result="colormatrix1"
@@ -4574,7 +4160,11 @@
     </filter>
     <filter
        id="filter76782-7"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          id="feColorMatrix76768-5"
          result="colormatrix1"
@@ -4619,7 +4209,11 @@
     </filter>
     <filter
        id="filter76798-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76784-2"
          result="colormatrix1"
@@ -4664,7 +4258,11 @@
     </filter>
     <filter
        id="filter76814-7"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76800-5"
          result="colormatrix1"
@@ -4709,7 +4307,11 @@
     </filter>
     <filter
        id="filter76830-7"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76816-5"
          result="colormatrix1"
@@ -4754,7 +4356,11 @@
     </filter>
     <filter
        id="filter76846-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76832-7"
          result="colormatrix1"
@@ -4799,7 +4405,11 @@
     </filter>
     <filter
        id="filter76862-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76848-5"
          result="colormatrix1"
@@ -4844,7 +4454,11 @@
     </filter>
     <filter
        id="filter76878-9"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76864-7"
          result="colormatrix1"
@@ -4889,7 +4503,11 @@
     </filter>
     <filter
        id="filter76894-3"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76880-5"
          result="colormatrix1"
@@ -4934,7 +4552,11 @@
     </filter>
     <filter
        id="filter76910-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76896-0"
          result="colormatrix1"
@@ -4979,7 +4601,11 @@
     </filter>
     <filter
        id="filter76926-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76912-3"
          result="colormatrix1"
@@ -5024,7 +4650,11 @@
     </filter>
     <filter
        id="filter76942-3"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76928-1"
          result="colormatrix1"
@@ -5069,7 +4699,11 @@
     </filter>
     <filter
        id="filter76958-1"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76944-1"
          result="colormatrix1"
@@ -5114,7 +4748,11 @@
     </filter>
     <filter
        id="filter76974-4"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76960-7"
          result="colormatrix1"
@@ -5159,7 +4797,11 @@
     </filter>
     <filter
        id="filter76990-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76976-3"
          result="colormatrix1"
@@ -5204,7 +4846,11 @@
     </filter>
     <filter
        id="filter77006-4"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          id="feColorMatrix76992-0"
          result="colormatrix1"
@@ -5268,7 +4914,11 @@
        y2="158.03633" />
     <filter
        id="filter76750-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          id="feColorMatrix76736-36"
          result="colormatrix1"
@@ -5313,7 +4963,11 @@
     </filter>
     <filter
        id="filter76766-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          id="feColorMatrix76752-7"
          result="colormatrix1"
@@ -5358,7 +5012,11 @@
     </filter>
     <filter
        id="filter76782-6"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          id="feColorMatrix76768-55"
          result="colormatrix1"
@@ -5403,7 +5061,11 @@
     </filter>
     <filter
        id="filter76798-3"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76784-6"
          result="colormatrix1"
@@ -5448,7 +5110,11 @@
     </filter>
     <filter
        id="filter76814-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76800-2"
          result="colormatrix1"
@@ -5493,7 +5159,11 @@
     </filter>
     <filter
        id="filter76830-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76816-8"
          result="colormatrix1"
@@ -5538,7 +5208,11 @@
     </filter>
     <filter
        id="filter76846-1"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76832-4"
          result="colormatrix1"
@@ -5583,7 +5257,11 @@
     </filter>
     <filter
        id="filter76862-3"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76848-4"
          result="colormatrix1"
@@ -5628,7 +5306,11 @@
     </filter>
     <filter
        id="filter76878-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76864-0"
          result="colormatrix1"
@@ -5673,7 +5355,11 @@
     </filter>
     <filter
        id="filter76894-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76880-1"
          result="colormatrix1"
@@ -5718,7 +5404,11 @@
     </filter>
     <filter
        id="filter76910-1"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76896-2"
          result="colormatrix1"
@@ -5763,7 +5453,11 @@
     </filter>
     <filter
        id="filter76926-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76912-1"
          result="colormatrix1"
@@ -5808,7 +5502,11 @@
     </filter>
     <filter
        id="filter76942-6"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76928-9"
          result="colormatrix1"
@@ -5853,7 +5551,11 @@
     </filter>
     <filter
        id="filter76958-9"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76944-5"
          result="colormatrix1"
@@ -5898,7 +5600,11 @@
     </filter>
     <filter
        id="filter76974-43"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76960-9"
          result="colormatrix1"
@@ -5943,7 +5649,11 @@
     </filter>
     <filter
        id="filter76990-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76976-0"
          result="colormatrix1"
@@ -5988,7 +5698,11 @@
     </filter>
     <filter
        id="filter77006-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          id="feColorMatrix76992-8"
          result="colormatrix1"
@@ -6043,7 +5757,11 @@
        xlink:href="#linearGradient3110-9" />
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76750-5-3">
+       id="filter76750-5-3"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6088,7 +5806,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76766-5-1">
+       id="filter76766-5-1"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6133,7 +5855,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76782-7-5">
+       id="filter76782-7-5"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6178,7 +5904,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76798-0-5">
+       id="filter76798-0-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6223,7 +5953,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76814-7-1">
+       id="filter76814-7-1"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6268,7 +6002,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76830-7-6">
+       id="filter76830-7-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6313,7 +6051,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76846-2-1">
+       id="filter76846-2-1"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6358,7 +6100,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76862-8-2">
+       id="filter76862-8-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6403,7 +6149,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76878-9-8">
+       id="filter76878-9-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6448,7 +6198,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76894-3-4">
+       id="filter76894-3-4"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6493,7 +6247,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76910-0-6">
+       id="filter76910-0-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6538,7 +6296,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76926-2-8">
+       id="filter76926-2-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6583,7 +6345,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76942-3-6">
+       id="filter76942-3-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6628,7 +6394,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76958-1-5">
+       id="filter76958-1-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6673,7 +6443,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76974-4-6">
+       id="filter76974-4-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6718,7 +6492,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76990-8-9">
+       id="filter76990-8-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6763,7 +6541,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter77006-4-5">
+       id="filter77006-4-5"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -6836,7 +6618,11 @@
        y2="158.03633" />
     <filter
        id="filter76750-81"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          id="feColorMatrix76736-1"
          result="colormatrix1"
@@ -6881,7 +6667,11 @@
     </filter>
     <filter
        id="filter76766-24"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          id="feColorMatrix76752-6"
          result="colormatrix1"
@@ -6926,7 +6716,11 @@
     </filter>
     <filter
        id="filter76782-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          id="feColorMatrix76768-4"
          result="colormatrix1"
@@ -6971,7 +6765,11 @@
     </filter>
     <filter
        id="filter76798-05"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76784-4"
          result="colormatrix1"
@@ -7016,7 +6814,11 @@
     </filter>
     <filter
        id="filter76814-00"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76800-4"
          result="colormatrix1"
@@ -7061,7 +6863,11 @@
     </filter>
     <filter
        id="filter76830-1"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76816-6"
          result="colormatrix1"
@@ -7106,7 +6912,11 @@
     </filter>
     <filter
        id="filter76846-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76832-1"
          result="colormatrix1"
@@ -7151,7 +6961,11 @@
     </filter>
     <filter
        id="filter76862-6"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76848-45"
          result="colormatrix1"
@@ -7196,7 +7010,11 @@
     </filter>
     <filter
        id="filter76878-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76864-9"
          result="colormatrix1"
@@ -7241,7 +7059,11 @@
     </filter>
     <filter
        id="filter76894-1"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76880-51"
          result="colormatrix1"
@@ -7286,7 +7108,11 @@
     </filter>
     <filter
        id="filter76910-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76896-6"
          result="colormatrix1"
@@ -7331,7 +7157,11 @@
     </filter>
     <filter
        id="filter76926-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76912-8"
          result="colormatrix1"
@@ -7376,7 +7206,11 @@
     </filter>
     <filter
        id="filter76942-4"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76928-7"
          result="colormatrix1"
@@ -7421,7 +7255,11 @@
     </filter>
     <filter
        id="filter76958-4"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76944-8"
          result="colormatrix1"
@@ -7466,7 +7304,11 @@
     </filter>
     <filter
        id="filter76974-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76960-6"
          result="colormatrix1"
@@ -7511,7 +7353,11 @@
     </filter>
     <filter
        id="filter76990-4"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76976-2"
          result="colormatrix1"
@@ -7556,7 +7402,11 @@
     </filter>
     <filter
        id="filter77006-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          id="feColorMatrix76992-9"
          result="colormatrix1"
@@ -7611,7 +7461,11 @@
        xlink:href="#linearGradient3110-9" />
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76750-5-4">
+       id="filter76750-5-4"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7656,7 +7510,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76766-5-0">
+       id="filter76766-5-0"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7701,7 +7559,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76782-7-1">
+       id="filter76782-7-1"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7746,7 +7608,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76798-0-1">
+       id="filter76798-0-1"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7791,7 +7657,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76814-7-3">
+       id="filter76814-7-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7836,7 +7706,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76830-7-0">
+       id="filter76830-7-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7881,7 +7755,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76846-2-9">
+       id="filter76846-2-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7926,7 +7804,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76862-8-8">
+       id="filter76862-8-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7971,7 +7853,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76878-9-5">
+       id="filter76878-9-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8016,7 +7902,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76894-3-7">
+       id="filter76894-3-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8061,7 +7951,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76910-0-0">
+       id="filter76910-0-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8106,7 +8000,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76926-2-3">
+       id="filter76926-2-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8151,7 +8049,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76942-3-0">
+       id="filter76942-3-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8196,7 +8098,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76958-1-3">
+       id="filter76958-1-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8241,7 +8147,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76974-4-7">
+       id="filter76974-4-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8286,7 +8196,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76990-8-7">
+       id="filter76990-8-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8331,7 +8245,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter77006-4-3">
+       id="filter77006-4-3"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8386,7 +8304,11 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76750-8-2">
+       id="filter76750-8-2"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8431,7 +8353,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76766-2-3">
+       id="filter76766-2-3"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8476,7 +8402,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76782-6-2">
+       id="filter76782-6-2"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8521,7 +8451,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76798-3-7">
+       id="filter76798-3-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8566,7 +8500,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76814-0-9">
+       id="filter76814-0-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8611,7 +8549,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76830-0-3">
+       id="filter76830-0-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8656,7 +8598,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76846-1-5">
+       id="filter76846-1-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8701,7 +8647,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76862-3-4">
+       id="filter76862-3-4"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8746,7 +8696,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76878-8-2">
+       id="filter76878-8-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8791,7 +8745,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76894-0-7">
+       id="filter76894-0-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8836,7 +8794,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76910-1-7">
+       id="filter76910-1-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8881,7 +8843,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76926-5-6">
+       id="filter76926-5-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8926,7 +8892,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76942-6-4">
+       id="filter76942-6-4"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8971,7 +8941,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76958-9-9">
+       id="filter76958-9-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9016,7 +8990,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76974-43-3">
+       id="filter76974-43-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9061,7 +9039,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter76990-0-2">
+       id="filter76990-0-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9106,7 +9088,11 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter77006-2-0">
+       id="filter77006-2-0"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9161,7 +9147,11 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        id="filter76750-5-3-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          id="feColorMatrix76736-3-9-5"
          result="colormatrix1"
@@ -9206,7 +9196,11 @@
     </filter>
     <filter
        id="filter76766-5-1-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          id="feColorMatrix76752-8-2-9"
          result="colormatrix1"
@@ -9251,7 +9245,11 @@
     </filter>
     <filter
        id="filter76782-7-5-4"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          id="feColorMatrix76768-5-0-1"
          result="colormatrix1"
@@ -9296,7 +9294,11 @@
     </filter>
     <filter
        id="filter76798-0-5-8"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76784-2-5-7"
          result="colormatrix1"
@@ -9341,7 +9343,11 @@
     </filter>
     <filter
        id="filter76814-7-1-7"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76800-5-7-3"
          result="colormatrix1"
@@ -9386,7 +9392,11 @@
     </filter>
     <filter
        id="filter76830-7-6-3"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76816-5-7-5"
          result="colormatrix1"
@@ -9431,7 +9441,11 @@
     </filter>
     <filter
        id="filter76846-2-1-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76832-7-0-0"
          result="colormatrix1"
@@ -9476,7 +9490,11 @@
     </filter>
     <filter
        id="filter76862-8-2-3"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76848-5-5-3"
          result="colormatrix1"
@@ -9521,7 +9539,11 @@
     </filter>
     <filter
        id="filter76878-9-8-7"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76864-7-2-6"
          result="colormatrix1"
@@ -9566,7 +9588,11 @@
     </filter>
     <filter
        id="filter76894-3-4-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76880-5-0-9"
          result="colormatrix1"
@@ -9611,7 +9637,11 @@
     </filter>
     <filter
        id="filter76910-0-6-5"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76896-0-2-1"
          result="colormatrix1"
@@ -9656,7 +9686,11 @@
     </filter>
     <filter
        id="filter76926-2-8-9"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76912-3-2-0"
          result="colormatrix1"
@@ -9701,7 +9735,11 @@
     </filter>
     <filter
        id="filter76942-3-6-6"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76928-1-9-5"
          result="colormatrix1"
@@ -9746,7 +9784,11 @@
     </filter>
     <filter
        id="filter76958-1-5-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76944-1-2-7"
          result="colormatrix1"
@@ -9791,7 +9833,11 @@
     </filter>
     <filter
        id="filter76974-4-6-2"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76960-7-1-9"
          result="colormatrix1"
@@ -9836,7 +9882,11 @@
     </filter>
     <filter
        id="filter76990-8-9-9"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76976-3-3-0"
          result="colormatrix1"
@@ -9881,7 +9931,11 @@
     </filter>
     <filter
        id="filter77006-4-5-0"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          id="feColorMatrix76992-0-3-8"
          result="colormatrix1"
@@ -9986,6 +10040,1014 @@
        x2="24.010031"
        y2="18.615572"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76750-58"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76736-4" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76738-03" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76740-84" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76742-4" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76744-8" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76746-10"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76748-8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76766-8"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76752-1" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76754-8" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76756-1" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76758-7" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76760-20" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76762-1"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76764-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76782-1"
+       x="-0.18366164"
+       y="-0.0075520659"
+       width="1.3673233"
+       height="1.0151041">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76768-7" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76770-4" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76772-90" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76774-6" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76776-0" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76778-2"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76780-3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76798-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76784-5" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76786-6" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76788-80" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76790-6" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76792-5" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76794-6"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76796-8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76814-04"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76800-9" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76802-3" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76804-13" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76806-4" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76808-0" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76810-1"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76812-5" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76830-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76816-4" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76818-80" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76820-0" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76822-1" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76824-0" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76826-7"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76828-77" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76846-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76832-11" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76834-2" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76836-4" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76838-4" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76840-5" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76842-4"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76844-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76862-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76848-49" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76850-8" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76852-30" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76854-2" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76856-8" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76858-8"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76860-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76878-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76864-2" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76866-19" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76868-3" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76870-9" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76872-3" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76874-5"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76876-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76894-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76880-0" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76882-7" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76884-5" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76886-94" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76888-17" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76890-53"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76892-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76910-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76896-5" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76898-58" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76900-7" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76902-3" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76904-5" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76906-5"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76908-76" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76926-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76912-7" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76914-2" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76916-83" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76918-2" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76920-9" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76922-8"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76924-06" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76942-34"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76928-4" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76930-2" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76932-4" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76934-6" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76936-7" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76938-0"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76940-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76958-98"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76944-7" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76946-91" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76948-1" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76950-9" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76952-43" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76954-2"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76956-8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76974-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76960-5" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76962-1" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76964-1" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76966-46" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76968-45" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76970-8"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76972-3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter76990-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76976-9" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76978-46" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76980-2" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76982-9" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix76984-3" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite76986-6"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend76988-6" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter77006-1"
+       x="-0.038799406"
+       y="-0.10975272"
+       width="1.0387994"
+       height="1.1097527">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix76992-5" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix76994-6" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix76996-8" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend76998-9" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix77000-0" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite77002-8"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend77004-1" />
+    </filter>
+    <radialGradient
+       xlink:href="#linearGradient3110-9"
+       id="radialGradient5183-2"
+       cx="73.13311"
+       cy="162.2504"
+       fx="73.13311"
+       fy="162.2504"
+       r="2.9821339"
+       gradientTransform="matrix(1.1452619,0,0,0.37207995,-47.834138,-26.904865)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       y2="158.03633"
+       x2="62.698608"
+       y1="158.08421"
+       x1="58.323711"
+       gradientTransform="matrix(0.6346479,0,0,1.0636149,-2.1251333,-117.84619)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5302"
+       xlink:href="#linearGradient3110-9" />
+    <linearGradient
+       xlink:href="#linearGradient8767"
+       id="linearGradient8761"
+       x1="69.353683"
+       y1="31.381464"
+       x2="69.3899"
+       y2="32.75901"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7858857,0,0,2.8800387,97.950852,-45.713827)" />
+    <filter
+       id="filter77934-7"
+       style="color-interpolation-filters:sRGB"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
+      <feColorMatrix
+         id="feColorMatrix77920-7"
+         result="colormatrix1"
+         values="333"
+         type="hueRotate"
+         in="SourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix77922-2"
+         result="colormatrix2"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         type="matrix" />
+      <feColorMatrix
+         id="feColorMatrix77924-0"
+         result="colormatrix3"
+         values="100"
+         type="hueRotate" />
+      <feBlend
+         id="feBlend77926-9"
+         result="blend1"
+         mode="normal"
+         in2="colormatrix3" />
+      <feColorMatrix
+         id="feColorMatrix77928-0"
+         result="colormatrix4"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         type="matrix" />
+      <feComposite
+         id="feComposite77930-7"
+         result="composite1"
+         k2="0.4"
+         operator="arithmetic"
+         in2="blend1"
+         in="colormatrix4"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         id="feBlend77932-1"
+         result="blend2"
+         mode="normal"
+         in2="blend1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter77934-7-8"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix77920-7-5" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix77922-2-9" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix77924-0-4" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend77926-9-3" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix77928-0-9" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite77930-7-0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend77932-1-5" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter77950-0"
+       x="-0.043370012"
+       y="-0.043760845"
+       width="1.08674"
+       height="1.0875217">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix77936-1" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix77938-8" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix77940-0" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend77942-7" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix77944-2" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite77946-5"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend77948-7" />
+    </filter>
   </defs>
   <metadata
      id="metadata5661">
@@ -10010,7 +11072,7 @@
        id="rect835"
        style="display:inline;fill:#697659;fill-opacity:1;stroke:#070000;stroke-width:0.364838;stroke-opacity:1;filter:url(#filter76734)" />
     <rect
-       style="display:inline;mix-blend-mode:multiply;fill:url(#linearGradient80505);fill-opacity:1;stroke:#070000;stroke-width:0.364838;stroke-opacity:1;filter:url(#filter76734-6)"
+       style="display:inline;mix-blend-mode:multiply;fill:url(#linearGradient80505);fill-opacity:1;stroke:#070000;stroke-width:0.365;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76734-6)"
        id="rect835-2"
        width="150.73595"
        height="102.67006"
@@ -10188,139 +11250,62 @@
          d="m 18.746125,19.496056 h 31.160077 v 8.848888"
          id="path3314" />
     </g>
-  </g>
-  <g
-     id="layer2"
-     style="display:none">
-    <path
-       id="path4129"
-       d="m 18.998247,59.822242 v 24.54108"
-       style="fill:#666666;stroke:#7e7e7e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4131"
-       d="m 32.955727,59.822242 v 24.54108"
-       style="fill:none;stroke:#7e7e7e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600912px;fill:#b3b3b3;stroke-width:0.187785"
-       x="20.427544"
-       y="77.113823"
-       id="text2276"><tspan
-         id="tspan2274"
-         x="20.427544"
-         y="77.113823"
-         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
-         dx="-0.10646084">SHAPE</tspan></text>
-    <text
-       id="text2276-8"
-       y="77.133865"
-       x="26.415493"
-       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;fill:#b3b3b3;stroke-width:0.187785"
-       xml:space="preserve"><tspan
-         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
-         y="77.133865"
-         x="26.415493"
-         id="tspan2274-1">HUMAN.</tspan></text>
-    <text
-       id="text2276-0"
-       y="32.671928"
-       x="22.413486"
-       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313993"
-       xml:space="preserve"><tspan
-         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313993"
-         y="32.671928"
-         x="22.413486"
-         id="tspan2274-6">KICK</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;fill:#b3b3b3;stroke-width:0.187785"
-       x="27.323008"
-       y="68.125725"
-       id="text2276-0-6"><tspan
-         id="tspan2274-6-1"
-         x="27.323008"
-         y="68.125725"
-         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">BODY</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;fill:#b3b3b3;stroke-width:0.187785"
-       x="20.862133"
-       y="68.292717"
-       id="text2276-0-7"><tspan
-         id="tspan2274-6-0"
-         x="20.862133"
-         y="68.292717"
-         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">TUNE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
-       x="36.423241"
-       y="32.671928"
-       id="text2276-0-2"><tspan
-         id="tspan2274-6-3"
-         x="36.423241"
-         y="32.671928"
-         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">SNARE</tspan></text>
-    <text
-       id="text2276-0-2-2"
-       y="32.533726"
-       x="51.091846"
-       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
-       xml:space="preserve"><tspan
-         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994"
-         y="32.533726"
-         x="51.091846"
-         id="tspan2274-6-3-3">H.HAT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
-       x="108.95844"
-       y="32.533726"
-       id="text2276-0-2-2-1"><tspan
-         id="tspan2274-6-3-3-2"
-         x="108.95844"
-         y="32.533726"
-         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">H.TOM</tspan></text>
-    <text
-       id="text2276-0-2-2-1-4"
-       y="32.533726"
-       x="123.16125"
-       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
-       xml:space="preserve"><tspan
-         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994"
-         y="32.533726"
-         x="123.16125"
-         id="tspan2274-6-3-3-2-2">L.TOM</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
-       x="67.266022"
-       y="32.533726"
-       id="text2276-0-2-2-8"><tspan
-         id="tspan2274-6-3-3-1"
-         x="67.266022"
-         y="32.533726"
-         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">CY1</tspan></text>
-    <text
-       id="text2276-0-2-2-8-1"
-       y="32.533726"
-       x="81.478554"
-       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
-       xml:space="preserve"><tspan
-         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994"
-         y="32.533726"
-         x="81.478554"
-         id="tspan2274-6-3-3-1-5">CY2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
-       x="94.208107"
-       y="32.533726"
-       id="text2276-0-2-2-8-1-3"><tspan
-         id="tspan2274-6-3-3-1-5-7"
-         x="94.208107"
-         y="32.533726"
-         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">CLAVE</tspan></text>
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6"
+       cx="23.125544"
+       cy="72.667984"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-9"
+       cx="23.125544"
+       cy="81.487473"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-4"
+       cx="29.89385"
+       cy="72.667984"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-7"
+       cx="29.859474"
+       cy="81.442764"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-7-2"
+       cx="44.137569"
+       cy="81.490715"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-4-4"
+       cx="44.171944"
+       cy="72.715935"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-9-4"
+       cx="37.403637"
+       cy="81.535423"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-8"
+       cx="37.403637"
+       cy="72.715935"
+       rx="2.5061588"
+       ry="2.5062509" />
   </g>
   <g
      id="layer1"
@@ -10391,7 +11376,7 @@
          style="display:inline;fill:url(#linearGradient7457);fill-opacity:1;stroke:#000000;stroke-width:0.409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter899-3)" />
     </g>
     <ellipse
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77198)"
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77198)"
        id="stepBeam2"
        cx="40.057621"
        cy="106.06371"
@@ -10426,7 +11411,7 @@
          style="fill:url(#linearGradient7459);fill-opacity:1;stroke:#000000;stroke-width:0.409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter899-5)" />
     </g>
     <ellipse
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77246)"
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77246)"
        id="stepBeam3"
        cx="46.728035"
        cy="106.0637"
@@ -10466,9 +11451,9 @@
        cy="106.0637"
        cx="53.068478"
        id="stepBeam4"
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77294)" />
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77294)" />
     <ellipse
-       style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77310)"
+       style="display:inline;fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77310)"
        id="stepBeam1"
        cx="33.579514"
        cy="106.07465"
@@ -10546,7 +11531,7 @@
        cy="106.06371"
        cx="70.086586"
        id="stepBeam6"
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77406)" />
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77406)" />
     <rect
        style="fill:#000000;fill-opacity:0.552419;stroke:none;stroke-width:0.269285;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77422)"
        id="rect1828-46-3"
@@ -10582,7 +11567,7 @@
        cy="106.0637"
        cx="76.757004"
        id="stepBeam7"
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77454)" />
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77454)" />
     <rect
        ry="0.6489526"
        y="103.76394"
@@ -10613,7 +11598,7 @@
          transform="matrix(0.67407721,0,0,0.67407721,26.51181,5.4992083)" />
     </g>
     <ellipse
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77502)"
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77502)"
        id="stepBeam8"
        cx="83.097443"
        cy="106.0637"
@@ -10625,7 +11610,7 @@
        cy="106.07465"
        cx="63.608482"
        id="stepBeam5"
-       style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77518)" />
+       style="display:inline;fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77518)" />
     <rect
        style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.216689;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77534)"
        id="rect982-9"
@@ -10698,7 +11683,7 @@
        cy="106.06371"
        cx="100.11555"
        id="stepBeam10"
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77614)" />
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77614)" />
     <rect
        style="fill:#000000;fill-opacity:0.552419;stroke:none;stroke-width:0.269285;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77630)"
        id="rect1828-46-9"
@@ -10734,7 +11719,7 @@
        cy="106.0637"
        cx="106.78597"
        id="stepBeam11"
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77662)" />
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77662)" />
     <rect
        ry="0.6489526"
        y="103.76394"
@@ -10765,7 +11750,7 @@
          transform="matrix(0.67407721,0,0,0.67407721,26.51181,5.4992083)" />
     </g>
     <ellipse
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77710)"
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77710)"
        id="stepBeam12"
        cx="113.12641"
        cy="106.0637"
@@ -10777,7 +11762,7 @@
        cy="106.07465"
        cx="93.637451"
        id="stepBeam9"
-       style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77726)" />
+       style="display:inline;fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77726)" />
     <rect
        ry="2.2233975"
        y="94.792946"
@@ -10845,7 +11830,7 @@
          style="display:inline;fill:url(#linearGradient2497);fill-opacity:1;stroke:#000000;stroke-width:0.409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter899-3-8-9)" />
     </g>
     <ellipse
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77822)"
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77822)"
        id="stepBeam14"
        cx="130.14452"
        cy="106.06371"
@@ -10881,7 +11866,7 @@
          style="fill:url(#linearGradient2499);fill-opacity:1;stroke:#000000;stroke-width:0.409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter899-5-3-4)" />
     </g>
     <ellipse
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77870)"
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77870)"
        id="stepBeam15"
        cx="136.81494"
        cy="106.0637"
@@ -10922,9 +11907,9 @@
        cy="106.0637"
        cx="143.15538"
        id="stepBeam16"
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77918)" />
+       style="fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77918)" />
     <ellipse
-       style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77934)"
+       style="display:inline;fill:#6b0a00;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77934)"
        id="stepBeam13"
        cx="123.66641"
        cy="106.07465"
@@ -10940,7 +11925,7 @@
     </g>
     <g
        transform="translate(-7.841608,7.8457037)"
-       id="g4124">
+       id="channelToggle1">
       <rect
          style="display:inline;opacity:1;mix-blend-mode:normal;fill:#5d6c7c;fill-opacity:1;stroke:#060805;stroke-width:0.352;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77950)"
          id="rect4117"
@@ -10960,7 +11945,7 @@
     </g>
     <g
        transform="translate(30.324954,9.5608716)"
-       id="g4236">
+       id="algoFlip1">
       <rect
          style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect4178"
@@ -10999,139 +11984,6 @@
        transform="translate(0,2.1166667)">
       <g
          id="g2808">
-        <g
-           id="g2878">
-          <rect
-             ry="2.2250249"
-             rx="0"
-             y="32.483425"
-             x="29.562042"
-             height="35.321842"
-             width="13.957483"
-             id="rect3001-8"
-             style="fill:#becbbc;fill-opacity:1;stroke:#48513d;stroke-width:0.428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76750)"
-             transform="matrix(1,0,0,0.74892863,0,17.023961)" />
-          <rect
-             ry="1.3751309"
-             y="35.747524"
-             x="35.005997"
-             height="29.093979"
-             width="1.7845452"
-             id="rect3036-1"
-             style="fill:url(#linearGradient7425);fill-opacity:1;stroke:#070000;stroke-width:0.300636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76766)"
-             transform="matrix(1,0,0,0.66908461,0,21.457051)" />
-          <rect
-             ry="0.35651544"
-             y="36.802582"
-             x="35.477985"
-             height="27.198746"
-             width="0.74832082"
-             id="slider1"
-             style="fill:#333333;fill-opacity:1;stroke:#070000;stroke-width:0.336034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76782)"
-             transform="matrix(1,0,0,0.66908461,0,21.457051)" />
-          <path
-             d="m 38.599022,59.2605 h -0.996361 v 5.923635 c 0.477876,-2.633549 0.729512,-4.243681 0.996361,-5.923635 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76798)"
-             id="rect5203-6-2"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="M 38.667519,58.852407 H 37.602661 V 59.2605 h 0.996361 c 0.01838,-0.115721 0.05024,-0.292944 0.0685,-0.408093 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76814)"
-             id="path5468-7"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,58.225751 v 0.626656 h 1.064858 c 0.02802,-0.17682 0.07736,-0.449698 0.105421,-0.626656 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76830)"
-             id="path5466-6"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 38.841432,57.817658 h -1.238771 v 0.408093 h 1.170274 c 0.01826,-0.115223 0.05037,-0.293484 0.0685,-0.408093 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76846)"
-             id="path5462-8"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,56.941042 v 0.876616 h 1.238771 c 0.03312,-0.246187 0.09231,-0.630874 0.125335,-0.876616 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.442725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76862)"
-             id="path5460-2"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,55.346927 v 1.317124 h 1.432603 c 0.04479,-0.366392 0.127843,-0.954506 0.171969,-1.317124 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.463461;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76878)"
-             id="path5454-2"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,53.425873 v 1.570753 h 1.712904 c 0.05345,-0.423548 0.163875,-1.16142 0.214721,-1.570753 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.453027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76894)"
-             id="path5446-7"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,51.264632 v 1.810951 h 2.027696 c 0.08622,-0.5709 0.201784,-1.271226 0.28079,-1.810951 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76910)"
-             id="path5438-7"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,48.966724 v 1.871112 h 2.405645 c 0.07374,-0.578287 0.180269,-1.317356 0.248726,-1.871112 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.434428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76926)"
-             id="path5432-5"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,46.100769 v 2.336138 h 2.773389 c 0.08681,-0.723011 0.215199,-1.639322 0.295362,-2.336138 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.436392;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76942)"
-             id="path5426-7"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,42.849722 v 2.567591 h 3.197486 c 0.0929,-0.803554 0.228763,-1.763449 0.317707,-2.567591 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.430189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76958)"
-             id="path5420-4"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,39.133965 v 2.899105 h 3.682792 c 0.08863,-0.9538 0.198464,-1.878851 0.291476,-2.899105 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.464096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76974)"
-             id="path5414-4"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <path
-             d="m 37.602661,36.05458 v 2.150969 h 4.13555 c 0.08503,-0.790183 0.15083,-1.270304 0.246299,-2.150969 z"
-             style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.426465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76990)"
-             id="path5408-4"
-             transform="matrix(1,0,0,0.64820434,0,22.931496)" />
-          <g
-             style="filter:url(#filter77006)"
-             id="slider1-head"
-             transform="translate(0,13.758336)">
-            <rect
-               style="opacity:0.59164;fill:#000000;stroke:none;stroke-width:0.533574"
-               id="rect1447"
-               width="6.5598912"
-               height="1.6559591"
-               x="32.998436"
-               y="33.348804"
-               ry="0.34204805" />
-            <rect
-               style="fill:url(#radialGradient5183-2);fill-opacity:1;stroke:#070000;stroke-width:0.525957;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="rect3114-6"
-               width="6.2839499"
-               height="1.713182"
-               x="32.780453"
-               y="32.608665"
-               ry="0.34204918" />
-            <rect
-               style="fill:#c21500;fill-opacity:1;stroke:none;stroke-width:0.463748;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="rect5514-9"
-               width="1.7514397"
-               height="0.46058509"
-               x="35.025288"
-               y="32.97361"
-               ry="0.23029254" />
-            <rect
-               ry="0.23029029"
-               y="33.485516"
-               x="35.025288"
-               height="0.46058059"
-               width="1.7514397"
-               id="rect5514-5-7"
-               style="fill:#bc3726;fill-opacity:1;stroke:none;stroke-width:0.463746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          </g>
-        </g>
         <g
            id="g2878-4"
            style="display:inline"
@@ -12091,24 +12943,742 @@
         </g>
       </g>
     </g>
+    <g
+       transform="translate(0.25507006,-9.0726925)"
+       id="g4794"
+       style="display:inline">
+      <rect
+         ry="2.2250249"
+         rx="0"
+         y="32.483425"
+         x="29.562042"
+         height="35.321842"
+         width="13.957483"
+         id="rect3001-8"
+         style="fill:#becbbc;fill-opacity:1;stroke:#48513d;stroke-width:0.428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76750-58)"
+         transform="matrix(1,0,0,0.74892863,-0.25507005,28.213321)" />
+      <rect
+         ry="1.3751309"
+         y="35.747524"
+         x="35.005997"
+         height="29.093979"
+         width="1.7845452"
+         id="rect3036-1"
+         style="fill:url(#linearGradient5302);fill-opacity:1;stroke:#070000;stroke-width:0.300636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76766-8)"
+         transform="matrix(1,0,0,0.66908461,-0.25507005,32.646411)" />
+      <path
+         d="m 35.5794,57.2705 h 0.0353 c 0.1975,0 0.3565,0.1063 0.3565,0.2385 v 17.7212 c 0,0.1321 -0.159,0.2385 -0.3565,0.2385 h -0.0353 c -0.1975,0 -0.3565,-0.1064 -0.3565,-0.2385 V 57.509 c 0,-0.1322 0.159,-0.2385 0.3565,-0.2385 z"
+         style="fill:#333333;fill-opacity:1;stroke:#070000;stroke-width:0.274868;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76782-1)"
+         id="slider1" />
+      <path
+         d="m 38.599022,59.2605 h -0.996361 v 5.923635 c 0.477876,-2.633549 0.729512,-4.243681 0.996361,-5.923635 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76798-6)"
+         id="rect5203-6-2"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="M 38.667519,58.852407 H 37.602661 V 59.2605 h 0.996361 c 0.01838,-0.115721 0.05024,-0.292944 0.0685,-0.408093 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76814-04)"
+         id="path5468-7"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,58.225751 v 0.626656 h 1.064858 c 0.02802,-0.17682 0.07736,-0.449698 0.105421,-0.626656 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76830-6)"
+         id="path5466-6"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 38.841432,57.817658 h -1.238771 v 0.408093 h 1.170274 c 0.01826,-0.115223 0.05037,-0.293484 0.0685,-0.408093 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76846-7)"
+         id="path5462-8"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,56.941042 v 0.876616 h 1.238771 c 0.03312,-0.246187 0.09231,-0.630874 0.125335,-0.876616 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.442725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76862-9)"
+         id="path5460-2"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,55.346927 v 1.317124 h 1.432603 c 0.04479,-0.366392 0.127843,-0.954506 0.171969,-1.317124 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.463461;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76878-0)"
+         id="path5454-2"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,53.425873 v 1.570753 h 1.712904 c 0.05345,-0.423548 0.163875,-1.16142 0.214721,-1.570753 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.453027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76894-6)"
+         id="path5446-7"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,51.264632 v 1.810951 h 2.027696 c 0.08622,-0.5709 0.201784,-1.271226 0.28079,-1.810951 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.408279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76910-5)"
+         id="path5438-7"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,48.966724 v 1.871112 h 2.405645 c 0.07374,-0.578287 0.180269,-1.317356 0.248726,-1.871112 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.434428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76926-8)"
+         id="path5432-5"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,46.100769 v 2.336138 h 2.773389 c 0.08681,-0.723011 0.215199,-1.639322 0.295362,-2.336138 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.436392;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76942-34)"
+         id="path5426-7"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,42.849722 v 2.567591 h 3.197486 c 0.0929,-0.803554 0.228763,-1.763449 0.317707,-2.567591 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.430189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76958-98)"
+         id="path5420-4"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,39.133965 v 2.899105 h 3.682792 c 0.08863,-0.9538 0.198464,-1.878851 0.291476,-2.899105 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.464096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76974-9)"
+         id="path5414-4"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <path
+         d="m 37.602661,36.05458 v 2.150969 h 4.13555 c 0.08503,-0.790183 0.15083,-1.270304 0.246299,-2.150969 z"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.426465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76990-2)"
+         id="path5408-4"
+         transform="matrix(1,0,0,0.64820434,-0.25507005,34.120856)" />
+      <g
+         style="filter:url(#filter77006-1)"
+         id="slider1-head">
+        <path
+           d="m 33.0854,58.2965 h 5.8758 c 0.1895,0 0.3421,0.1526 0.3421,0.3421 v 0.9718 c 0,0.1895 -0.1526,0.3421 -0.3421,0.3421 h -5.8758 c -0.1895,0 -0.342,-0.1526 -0.342,-0.3421 v -0.9718 c 0,-0.1895 0.1525,-0.3421 0.342,-0.3421 z"
+           style="opacity:0.256311;fill:#000000;stroke:none;stroke-width:0.533574"
+           id="rect1447" />
+        <path
+           d="m 32.8674,57.5564 h 5.5999 c 0.1895,0 0.342,0.1525 0.342,0.342 v 1.0291 c 0,0.1895 -0.1525,0.342 -0.342,0.342 h -5.5999 c -0.1895,0 -0.342,-0.1525 -0.342,-0.342 v -1.0291 c 0,-0.1895 0.1525,-0.342 0.342,-0.342 z"
+           style="fill:url(#radialGradient5183-2);fill-opacity:1;stroke:#070000;stroke-width:0.525957;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3114-6" />
+        <path
+           d="m 35.0005,57.9213 h 1.2909 c 0.1275,0 0.2303,0.1027 0.2303,0.2303 0,0.1276 -0.1028,0.2303 -0.2303,0.2303 h -1.2909 c -0.1276,0 -0.2303,-0.1027 -0.2303,-0.2303 0,-0.1276 0.1027,-0.2303 0.2303,-0.2303 z"
+           style="fill:#c21500;fill-opacity:1;stroke:none;stroke-width:0.463748;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5514-9" />
+        <path
+           d="m 35.0005,58.4332 h 1.2909 c 0.1275,0 0.2303,0.1027 0.2303,0.2303 0,0.1276 -0.1028,0.2303 -0.2303,0.2303 h -1.2909 c -0.1276,0 -0.2303,-0.1027 -0.2303,-0.2303 0,-0.1276 0.1027,-0.2303 0.2303,-0.2303 z"
+           style="fill:#bc3726;fill-opacity:1;stroke:none;stroke-width:0.463746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5514-5-7" />
+      </g>
+    </g>
+    <g
+       id="btnFunc">
+      <rect
+         ry="0.79749012"
+         y="44.758251"
+         x="149.6442"
+         height="2.7886517"
+         width="6.736896"
+         id="rect6277"
+         style="fill:#282828;fill-opacity:1;stroke-width:0.126423;stroke-linecap:round" />
+      <path
+         id="path3450"
+         d="m 149.6442,46.53845 c 0,0 0.22824,0.84679 0.7884,0.82074 l 5.11958,0.0097 c 0.46072,0.09093 0.83655,-0.827982 0.82892,-0.843255 0,1.021223 -0.65859,1.002896 -0.65859,1.002896 l -5.36927,0.0089 c 0,0 -0.70904,0.0094 -0.70904,-0.947936"
+         style="fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:0.202723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3452"
+         d="m 149.66869,45.362921 c 0,0 0.29035,-0.37908 0.78883,-0.37908 l 5.41219,0.0169 c 0.34999,0.09073 0.44677,0.314107 0.44677,0.314107 0.0646,-0.489013 -0.58554,-0.536477 -0.58554,-0.536477 l -5.24774,-0.02012 c 0,0 -0.839,10e-7 -0.81451,0.604671 z"
+         style="display:inline;fill:#474747;fill-opacity:1;stroke:none;stroke-width:0.587057px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:url(#linearGradient8761);fill-opacity:1;stroke:none;stroke-width:0.12763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 149.66869,46.455162 c 0.49865,-0.18735 0.81792,-0.236324 1.7487,-0.30522 l 3.22486,-0.01129 c 0.36573,0.08084 1.00391,-0.0085 1.47895,0.290166 0,0 0.43806,-1.134483 -0.17895,-1.399263 l -5.48473,-0.03589 c 0,0 -0.81902,-0.137435 -0.81216,0.465229 0.004,0.38466 -0.0238,0.449037 0.0233,0.996302 z"
+         id="path8753" />
+    </g>
+    <ellipse
+       ry="0.58905768"
+       rx="0.6258738"
+       cy="35.44883"
+       cx="152.52956"
+       id="stepBeam13-6"
+       style="display:inline;fill:#740000;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77934-7)" />
+    <ellipse
+       style="display:inline;fill:#740000;fill-opacity:1;stroke:#000000;stroke-width:0.275698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77934-7-8)"
+       id="stepBeam13-6-6"
+       cx="88.418564"
+       cy="30.572662"
+       rx="0.6258738"
+       ry="0.58905768" />
+    <g
+       transform="translate(6.4364842,7.8936674)"
+       id="channelToggle2"
+       style="display:inline">
+      <rect
+         style="display:inline;opacity:1;mix-blend-mode:normal;fill:#5d6c7c;fill-opacity:1;stroke:#060805;stroke-width:0.352;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77950-0)"
+         id="rect4117-8"
+         width="4.0581036"
+         height="4.0218601"
+         x="38.570431"
+         y="62.841175"
+         ry="0.15447049"
+         transform="matrix(0.73862095,0,0,0.73862095,10.504599,17.052553)" />
+      <ellipse
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:#060805;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4120-6"
+         cx="40.527615"
+         cy="63.87167"
+         rx="0.35303468"
+         ry="0.41922867" />
+    </g>
+    <g
+       transform="translate(44.603047,9.6088342)"
+       id="algoFlip2"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4178-6"
+         width="6.2471514"
+         height="2.3426816"
+         x="5.2537165"
+         y="62.20277"
+         ry="0.3456887" />
+      <path
+         style="fill:none;stroke:#747474;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 5.2537166,62.202772 h 6.2471514 v 2.342685"
+         id="path4182-3" />
+      <g
+         id="g4214-9"
+         transform="translate(3.9654484,-2.1389542)">
+        <rect
+           ry="0.3456887"
+           y="64.420296"
+           x="1.2882681"
+           height="2.2641048"
+           width="2.1910694"
+           id="rect4184-5"
+           style="fill:#323232;fill-opacity:1;stroke:#747474;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path4186-1"
+           d="m 2.9410543,64.434197 v 2.240018"
+           style="fill:none;stroke:#757575;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="display:inline;fill:none;stroke:#757575;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 2.3726921,64.434197 v 2.240018"
+           id="path4186-0-1" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="layer2"
+     style="display:none">
+    <path
+       id="path4129"
+       d="m 18.998247,59.822242 v 24.54108"
+       style="fill:#666666;stroke:#7e7e7e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path4131"
+       d="m 32.955727,59.822242 v 24.54108"
+       style="fill:none;stroke:#7e7e7e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path4131-5"
+       d="m 47.337913,60.084901 v 24.54108"
+       style="display:inline;fill:none;stroke:#7e7e7e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600912px;fill:#b3b3b3;stroke-width:0.187785"
+       x="20.427544"
+       y="77.113823"
+       id="text2276"><tspan
+         id="tspan2274"
+         x="20.427544"
+         y="77.113823"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         dx="-0.10646084">SHAPE</tspan></text>
+    <text
+       id="text2276-8"
+       y="77.133865"
+       x="26.415493"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;fill:#b3b3b3;stroke-width:0.187785"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         y="77.133865"
+         x="26.415493"
+         id="tspan2274-1">HUMAN.</tspan></text>
+    <text
+       id="text2276-0"
+       y="32.671928"
+       x="22.413486"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313993"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313993"
+         y="32.671928"
+         x="22.413486"
+         id="tspan2274-6">KICK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;fill:#b3b3b3;stroke-width:0.187785"
+       x="27.323008"
+       y="68.125725"
+       id="text2276-0-6"><tspan
+         id="tspan2274-6-1"
+         x="27.323008"
+         y="68.125725"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">BODY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;fill:#b3b3b3;stroke-width:0.187785"
+       x="20.862133"
+       y="68.292717"
+       id="text2276-0-7"><tspan
+         id="tspan2274-6-0"
+         x="20.862133"
+         y="68.292717"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">TUNE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
+       x="36.423241"
+       y="32.671928"
+       id="text2276-0-2"><tspan
+         id="tspan2274-6-3"
+         x="36.423241"
+         y="32.671928"
+         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">SNARE</tspan></text>
+    <text
+       id="text2276-0-2-2"
+       y="32.533726"
+       x="51.091846"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994"
+         y="32.533726"
+         x="51.091846"
+         id="tspan2274-6-3-3">H.HAT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
+       x="108.95844"
+       y="32.533726"
+       id="text2276-0-2-2-1"><tspan
+         id="tspan2274-6-3-3-2"
+         x="108.95844"
+         y="32.533726"
+         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">H.TOM</tspan></text>
+    <text
+       id="text2276-0-2-2-1-4"
+       y="32.533726"
+       x="123.16125"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994"
+         y="32.533726"
+         x="123.16125"
+         id="tspan2274-6-3-3-2-2">L.TOM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
+       x="67.266022"
+       y="32.533726"
+       id="text2276-0-2-2-8"><tspan
+         id="tspan2274-6-3-3-1"
+         x="67.266022"
+         y="32.533726"
+         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">CY1</tspan></text>
+    <text
+       id="text2276-0-2-2-8-1"
+       y="32.533726"
+       x="81.478554"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994"
+         y="32.533726"
+         x="81.478554"
+         id="tspan2274-6-3-3-1-5">CY2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;fill:#b3b3b3;stroke-width:0.313994"
+       x="94.208107"
+       y="32.533726"
+       id="text2276-0-2-2-8-1-3"><tspan
+         id="tspan2274-6-3-3-1-5-7"
+         x="94.208107"
+         y="32.533726"
+         style="letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">CLAVE</tspan></text>
+    <text
+       id="text2276-0-6-4"
+       y="21.61058"
+       x="60.927948"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         y="21.61058"
+         x="60.927948"
+         id="tspan2274-6-1-4">PATTERN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="105.36475"
+       y="21.61058"
+       id="text2276-0-6-4-0"><tspan
+         id="tspan2274-6-1-4-0"
+         x="105.36475"
+         y="21.61058"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">MENU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="79.645981"
+       y="21.565317"
+       id="text2276-0-6-4-3"><tspan
+         id="tspan2274-6-1-4-04"
+         x="79.645981"
+         y="21.565317"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">TRANSPORT</tspan></text>
+    <text
+       id="text2276-0-2-0"
+       y="100.57251"
+       x="19.98196"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;display:inline;fill:#b3b3b3;stroke-width:0.313994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994"
+         y="100.57251"
+         x="19.98196"
+         id="tspan2274-6-3-4">    1          2         3          4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;display:inline;fill:#b3b3b3;stroke-width:0.313994"
+       x="50.440147"
+       y="100.58255"
+       id="text2276-0-2-0-8"><tspan
+         id="tspan2274-6-3-4-5"
+         x="50.440147"
+         y="100.58255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">    5          6         7         8</tspan></text>
+    <text
+       id="text2276-0-2-0-8-0"
+       y="100.48021"
+       x="80.519966"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;display:inline;fill:#b3b3b3;stroke-width:0.313994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994"
+         y="100.48021"
+         x="80.519966"
+         id="tspan2274-6-3-4-5-9">    9        10        11      12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.51195px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.100478px;display:inline;fill:#b3b3b3;stroke-width:0.313994"
+       x="110.69557"
+       y="100.68491"
+       id="text2276-0-2-0-8-0-0"><tspan
+         id="tspan2274-6-3-4-5-9-6"
+         x="110.69557"
+         y="100.68491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;letter-spacing:-0.147577px;fill:#b3b3b3;stroke-width:0.313994">  13       14        15       16</tspan></text>
+    <text
+       id="text2276-0-6-4-3-6"
+       y="21.61058"
+       x="93.721657"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         y="21.61058"
+         x="93.721657"
+         id="tspan2274-6-1-4-04-9">ACCENT</tspan></text>
+    <text
+       id="text2276-0-6-4-0-0"
+       y="33.980709"
+       x="140.28401"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         y="33.980709"
+         x="140.28401"
+         id="tspan2274-6-1-4-0-2">FUNC.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="138.69933"
+       y="21.61058"
+       id="text2276-0-6-4-0-0-0"><tspan
+         id="tspan2274-6-1-4-0-2-9"
+         x="138.69933"
+         y="21.61058"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">EXT. SYNC</tspan></text>
     <rect
-       style="opacity:1;fill:#333333;stroke-width:0.165;stroke-linecap:round"
-       id="rect6277"
-       width="8.572361"
-       height="3.7331252"
-       x="64.541031"
-       y="30.238016" />
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.158089"
+       id="rect3506"
+       width="3.8242161"
+       height="2.8195028"
+       x="21.036074"
+       y="91.526543"
+       ry="0.62113029" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.42601px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';fill:#b3b3b3;fill-opacity:1;stroke-width:0.0356503"
+       x="21.516184"
+       y="93.412804"
+       id="text3510"><tspan
+         id="tspan3508"
+         x="21.516184"
+         y="93.412804"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0356503">CLR</tspan></text>
+    <rect
+       ry="0.62113029"
+       y="91.412643"
+       x="27.454458"
+       height="2.8195031"
+       width="3.8242161"
+       id="rect3506-5"
+       style="display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.158089" />
+    <text
+       id="text3510-4"
+       y="93.298904"
+       x="27.934568"
+       style="font-size:1.42601px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';display:inline;fill:#b3b3b3;fill-opacity:1;stroke-width:0.0356502"
+       xml:space="preserve"><tspan
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0356502"
+         y="93.298904"
+         x="27.934568"
+         id="tspan3508-9">GST</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.158089"
+       id="rect3506-5-8"
+       width="3.8242161"
+       height="2.8195031"
+       x="34.128757"
+       y="91.359528"
+       ry="0.62113029" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.42601px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';display:inline;fill:#b3b3b3;fill-opacity:1;stroke-width:0.0356502"
+       x="34.608868"
+       y="93.245789"
+       id="text3510-4-7"><tspan
+         id="tspan3508-9-8"
+         x="34.608868"
+         y="93.245789"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0356502">RND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600912px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="34.705635"
+       y="77.161774"
+       id="text2276-2"><tspan
+         id="tspan2274-7"
+         x="34.705635"
+         y="77.161774"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         dx="-0.10646084">SHAPE</tspan></text>
+    <text
+       id="text2276-8-5"
+       y="77.181816"
+       x="40.693588"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         y="77.181816"
+         x="40.693588"
+         id="tspan2274-1-0">HUMAN.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="41.601101"
+       y="68.173676"
+       id="text2276-0-6-2"><tspan
+         id="tspan2274-6-1-2"
+         x="41.601101"
+         y="68.173676"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">BODY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="35.140224"
+       y="68.340668"
+       id="text2276-0-7-0"><tspan
+         id="tspan2274-6-0-8"
+         x="35.140224"
+         y="68.340668"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">TUNE</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     id="layer6">
+    <rect
+       y="26.829464"
+       x="57.272743"
+       height="1.1243382"
+       width="6.1305232"
+       id="rect3504"
+       style="display:inline;opacity:1;fill:#0e1723;fill-opacity:1;stroke:none;stroke-width:0.172978" />
+    <g
+       id="btnDown">
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4178-7-4"
+         width="6.2471514"
+         height="2.3426816"
+         x="57.184624"
+         y="25.084728"
+         ry="0.3456887" />
+      <rect
+         ry="0.3456887"
+         y="24.96759"
+         x="57.104546"
+         height="2.3426816"
+         width="6.2471514"
+         id="rect4178-7"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1"
+         id="path3526"
+         d="m 59.313084,26.860758 -0.919451,-1.592535 1.838901,0 z"
+         transform="matrix(0.94226497,0,0,0.59999998,4.2914896,10.602746)" />
+    </g>
+    <rect
+       y="26.829464"
+       x="65.202179"
+       height="1.1243382"
+       width="6.1305232"
+       id="rect3504-6"
+       style="display:inline;opacity:1;fill:#0e1723;fill-opacity:1;stroke:none;stroke-width:0.172978" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4178-7-4-3"
+       width="6.2471514"
+       height="2.3426816"
+       x="65.114059"
+       y="25.08473"
+       ry="0.3456887" />
+    <rect
+       style="display:inline;opacity:1;fill:#0e1723;fill-opacity:1;stroke:none;stroke-width:0.172978"
+       id="rect3504-6-2"
+       width="6.1305232"
+       height="1.1243382"
+       x="75.076126"
+       y="26.829464" />
+    <g
+       id="btnUp">
+      <rect
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4178-7-9"
+         width="6.2471514"
+         height="2.3426816"
+         x="65.033981"
+         y="24.967592"
+         ry="0.3456887" />
+      <path
+         transform="matrix(0.94226496,0,0,-0.59999999,12.308956,41.836195)"
+         d="m 59.313084,26.860758 -0.919451,-1.592535 1.838901,0 z"
+         id="path3526-4"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1" />
+    </g>
+    <g
+       id="btnRun">
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4178-7-4-3-3"
+         width="6.2471514"
+         height="2.3426816"
+         x="74.987999"
+         y="25.084728"
+         ry="0.3456887" />
+      <rect
+         ry="0.3456887"
+         y="24.96759"
+         x="74.907921"
+         height="2.3426816"
+         width="6.2471514"
+         id="rect4178-7-9-8"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.46523421,0.58413966,0,62.317068,53.791976)"
+         d="m 59.313084,26.860758 -0.919451,-1.592535 1.838901,0 z"
+         id="path3526-1"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1" />
+      <path
+         id="path3573-7"
+         d="m 78.60673,25.76974 v 0.85552"
+         style="display:inline;fill:none;stroke:#b3b3b3;stroke-width:0.209873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;stroke:#b3b3b3;stroke-width:0.209873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 79.076426,25.76974 v 0.85552"
+         id="path3573-7-7" />
+    </g>
+    <rect
+       y="26.829464"
+       x="83.389206"
+       height="1.1243382"
+       width="6.1305232"
+       id="rect3504-6-2-5"
+       style="display:inline;opacity:1;fill:#0e1723;fill-opacity:1;stroke:none;stroke-width:0.172978" />
+    <g
+       id="btnReset">
+      <rect
+         ry="0.3456887"
+         y="25.084728"
+         x="83.301079"
+         height="2.3426816"
+         width="6.2471514"
+         id="rect4178-7-4-3-3-1"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4178-7-9-8-1"
+         width="6.2471514"
+         height="2.3426816"
+         x="83.221001"
+         y="24.96759"
+         ry="0.3456887" />
+      <path
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1"
+         id="path3526-1-5"
+         d="m 59.313084,26.860758 -0.919451,-1.592535 1.838901,0 z"
+         transform="matrix(0,-0.57399484,-0.73051138,0,105.39309,60.272721)" />
+      <path
+         style="fill:none;stroke:#b3b3b3;stroke-width:0.209873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 85.666064,25.799557 v 0.85552"
+         id="path3573" />
+    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#0e1723;fill-opacity:1;stroke:none;stroke-width:0.172978"
+       id="rect3504-6-2-5-9"
+       width="6.1305232"
+       height="1.1243382"
+       x="93.756317"
+       y="26.829464" />
+    <g
+       id="btnAccent">
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4178-7-4-3-3-1-0"
+         width="6.2471514"
+         height="2.3426816"
+         x="93.66819"
+         y="25.084728"
+         ry="0.3456887" />
+      <rect
+         ry="0.3456887"
+         y="24.96759"
+         x="93.588112"
+         height="2.3426816"
+         width="6.2471514"
+         id="rect4178-7-9-8-1-0"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#19283d;fill-opacity:1;stroke:none;stroke-width:0.172978"
+       id="rect3504-6-2-5-8"
+       width="6.1305232"
+       height="1.1243382"
+       x="104.65075"
+       y="26.829464" />
+    <g
+       id="btnMenu">
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4178-7-4-3-3-1-4"
+         width="6.2471514"
+         height="2.3426816"
+         x="104.56261"
+         y="25.084728"
+         ry="0.3456887" />
+      <rect
+         ry="0.3456887"
+         y="24.96759"
+         x="104.48254"
+         height="2.3426816"
+         width="6.2471514"
+         id="rect4178-7-9-8-1-5"
+         style="fill:#2f2f2f;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      id="layer4"
      style="display:none">
-    <ellipse
-       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4126-6"
-       cx="23.125544"
-       cy="72.667984"
-       rx="2.5061588"
-       ry="2.5062509" />
     <g
        id="tuneKnob1"
        style="display:inline"
@@ -12121,27 +13691,84 @@
          rx="2.5061588"
          ry="2.5062509" />
     </g>
-    <ellipse
-       style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4126-2"
-       cx="29.268557"
-       cy="71.590889"
-       rx="2.5061588"
-       ry="2.5062509" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4126-4"
-       cx="22.596376"
-       cy="80.637672"
-       rx="2.5061588"
-       ry="2.5062509" />
-    <ellipse
-       ry="2.5062509"
-       rx="2.5061588"
-       cy="80.637672"
-       cx="29.26499"
-       id="path4126-2-9"
-       style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="bodyKnob1">
+      <ellipse
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4126-2"
+         cx="29.268557"
+         cy="71.590889"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="shapeKnob1">
+      <ellipse
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4126-4"
+         cx="22.596376"
+         cy="80.637672"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="humanKnob1">
+      <ellipse
+         ry="2.5062509"
+         rx="2.5061588"
+         cy="80.637672"
+         cx="29.26499"
+         id="path4126-2-9"
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="tuneKnob2"
+       style="display:inline"
+       transform="translate(3.7142958,-7.9350607)">
+      <ellipse
+         style="opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="randomId333-5"
+         cx="33.160172"
+         cy="79.592674"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="bodyKnob2"
+       style="display:inline"
+       transform="translate(14.278093,0.04796376)">
+      <ellipse
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4126-2-6"
+         cx="29.268557"
+         cy="71.590889"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="shapeKnob2"
+       style="display:inline"
+       transform="translate(14.278093,0.04796376)">
+      <ellipse
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4126-4-2"
+         cx="22.596376"
+         cy="80.637672"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="humanKnob2"
+       style="display:inline"
+       transform="translate(14.278093,0.04796376)">
+      <ellipse
+         ry="2.5062509"
+         rx="2.5061588"
+         cy="80.637672"
+         cx="29.26499"
+         id="path4126-2-9-3"
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      style="display:none"

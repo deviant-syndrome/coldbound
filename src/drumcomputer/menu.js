@@ -3,25 +3,63 @@
 //  Main menu
 //      Pattern
 //      Exit
-
-const CRUISE_CONTROL = 0;
-const MAIN_MENU = 1;
+import { addPatternChangeListener } from "./functions/patternSelect";
 
 const EXCLUSIVE = true;
 const NON_EXCLUSIVE = false;
 
-let state = CRUISE_CONTROL;
+const CRUISE_CONTROL_MESSAGE = "We're going to Hell";
 
-let logic = {};
+let transports = [];
+let stateStack = [cruiseControl];
 
-logic[CRUISE_CONTROL] = (_) => {
-  return NON_EXCLUSIVE;
-};
-
-function hint(message) {}
-
-function menu(keyCode) {
-  return logic[state](keyCode);
+function head() {
+  if (stateStack.length > 0) {
+    stateStack[stateStack.length - 1]();
+  }
 }
 
-export { EXCLUSIVE, NON_EXCLUSIVE, menu };
+addPatternChangeListener((pat) => {
+  if (stateStack.length < 2) {
+    become((_) => hint(`P:${pat}`));
+  } else {
+    setMenuText(`P:${pat}`);
+  }
+});
+
+function setMenuText(msg) {
+  transports.forEach((t) => t.send(msg));
+}
+
+function cruiseControl(keyCode) {
+  setMenuText(CRUISE_CONTROL_MESSAGE);
+  return NON_EXCLUSIVE;
+}
+
+function become(newState, keyCode) {
+  stateStack.push(newState);
+  menu(keyCode);
+}
+
+function menu(keyCode) {
+  head();
+  return NON_EXCLUSIVE;
+}
+
+function hint(message) {
+  setMenuText(message);
+  setTimeout(() => {
+    if (stateStack.length > 1) {
+      stateStack.pop();
+    }
+    head();
+  }, 1000);
+  return NON_EXCLUSIVE;
+}
+
+function addTransport(transport) {
+  transports.push(transport);
+  menu();
+}
+
+export { EXCLUSIVE, NON_EXCLUSIVE, CRUISE_CONTROL_MESSAGE, menu, addTransport };

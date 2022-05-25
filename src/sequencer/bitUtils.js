@@ -6,6 +6,16 @@ function setBits(value, bitPositions) {
   return result;
 }
 
+function flipBit(value, bitNum) {
+  let mask = 1 << bitNum;
+  return value ^ mask;
+}
+
+function testBit(value, bitNum) {
+  let mask = 1 << bitNum;
+  return (value & mask) !== 0;
+}
+
 function getSetBitsPositions(value) {
   let my_char = value;
   let what_bit_i_am_testing = 0;
@@ -21,4 +31,4 @@ function getSetBitsPositions(value) {
   return setBitsResult;
 }
 
-export { setBits, getSetBitsPositions };
+export { setBits, flipBit, testBit, getSetBitsPositions };

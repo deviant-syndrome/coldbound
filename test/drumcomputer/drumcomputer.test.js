@@ -7,6 +7,7 @@ const path = require("path");
 const drumcomputer = require("../../src/drumcomputer/drumcomputer");
 
 const toggle = require("../../src/ui/controls/toggle");
+const editor = require("../../src/sequencer/editor");
 
 let root = path.resolve(__dirname, "../..");
 let knobs = fs
@@ -43,12 +44,20 @@ jest.mock("../../src/ui/controls/toggle", () => {
   };
 });
 
+jest.mock("../../src/sequencer/editor", () => {
+  const original = jest.requireActual("../../src/sequencer/editor");
+  return {
+    fillStepValues: jest.fn(original.fillStepValues),
+    addStepListener: jest.fn(original.addStepListener),
+  };
+});
+
 jest.mock("../../src/ui/d3DomainImpl", () => {
   let wrappedProvider = jest.requireActual("../../src/ui/d3DomainImpl");
   return {
     getDomainAgnosticImplementation:
       wrappedProvider.getDomainAgnosticImplementation,
-    getImplementation: wrappedProvider.getImplementation,
+    getImplementation: wrappedProvider.getDomainAgnosticImplementation,
     getElementAccessSupport: wrappedProvider.getNoElementAccessSupport,
     getDragSupport: wrappedProvider.getDragSupport,
   };
@@ -63,8 +72,19 @@ SVGElement.prototype.getBBox = jest.fn(() => {
   };
 });
 
+const createBubbledEvent = (type, props = {}) => {
+  const event = new Event(type, { bubbles: true });
+  Object.assign(event, props);
+  return event;
+};
+
 test("Drum computer passes POST", () => {
   drumcomputer.init();
-  expect(toggle.wire).toBeCalledTimes(16);
+  expect(toggle.wire).toBeCalledTimes(18);
   expect(knobs.length > 0).toBe(true);
+
+  document
+    .querySelector("#channelToggle1")
+    .dispatchEvent(createBubbledEvent("click", {}));
+  expect(editor.fillStepValues).toBeCalledTimes(1);
 });

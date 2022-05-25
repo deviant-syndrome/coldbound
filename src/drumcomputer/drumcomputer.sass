@@ -10,11 +10,22 @@
   &-glowing-led
     filter: drop-shadow(1.1px 0.8px 0.6px red)
 
+  &-button:active
+      animation: pressed 0.4s normal forwards
+
+path.drumcomputer
   &-toggle-on
     fill: #4697d7c7
 
-  &-button:active
-      animation: pressed 0.4s normal forwards
+
+rect.drumcomputer
+  &-toggle-on
+    fill: rgb(106, 124, 141)
+
+ellipse.drumcomputer
+  &-toggle-on
+    fill: red
+    filter: drop-shadow(0px 0.8px 0.6px red)
 
 #knobs
   left: 75.674px

@@ -39,7 +39,55 @@ module.exports = {
       filename: "./index.html",
     }),
     new HtmlWebpackInlineSVGPlugin({
-      // runPreEmit: true
+      // todo: move it external file somehow?
+      svgoConfig: [
+        {
+          cleanupNumericValues: {
+            floatPrecision: 2,
+          },
+        },
+        {
+          convertPathData: {
+            floatPrecision: 2,
+          },
+        },
+        {
+          transformsWithOnePath: {
+            floatPrecision: 2,
+          },
+        },
+        {
+          convertTransform: {
+            floatPrecision: 2,
+          },
+        },
+        {
+          cleanupListOfValues: {
+            floatPrecision: 2,
+          },
+        },
+        {
+          collapseGroups: true,
+        },
+        {
+          removeEditorsNSData: true,
+        },
+        {
+          cleanupAttrs: true,
+        },
+        {
+          removeEmptyContainers: true,
+        },
+        {
+          removeXMLProcInst: true,
+        },
+        {
+          mergePaths: true,
+        },
+        {
+          removeUnusedNS: true,
+        },
+      ],
     }),
     new ESLintPlugin({}),
   ],
@@ -68,6 +116,17 @@ module.exports = {
     alias: {
       "osc-js": path.resolve(__dirname, "node_modules/osc/dist/osc-browser.js"),
       sassy: path.resolve(__dirname, "style.sass"),
+    },
+    fallback: {
+      zlib: false,
+      crypto: false,
+      stream: false,
+      http: false,
+      https: false,
+      url: false,
+      path: false,
+      os: false,
+      fs: false,
     },
   },
 };

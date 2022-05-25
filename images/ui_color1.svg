@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="190.53908mm"
    height="103.32323mm"
    viewBox="0 0 190.53908 103.32323"
    version="1.1"
    id="svg5664"
-   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   sodipodi:docname="ui_color1.svg">
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="ui_color1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5658">
     <linearGradient
@@ -92,7 +92,11 @@
        style="color-interpolation-filters:sRGB"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        inkscape:menu="Bevels"
-       inkscape:label="Button">
+       inkscape:label="Button"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873"
          result="result0"
@@ -158,7 +162,11 @@
        inkscape:menu="Bevels"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        style="color-interpolation-filters:sRGB"
-       id="filter899-3">
+       id="filter899-3"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -224,7 +232,11 @@
        inkscape:menu="Bevels"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        style="color-interpolation-filters:sRGB"
-       id="filter899-5">
+       id="filter899-5"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -290,7 +302,11 @@
        style="color-interpolation-filters:sRGB"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        inkscape:menu="Bevels"
-       inkscape:label="Button">
+       inkscape:label="Button"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-2-4"
          result="result0"
@@ -1212,7 +1228,11 @@
        inkscape:menu="Bevels"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        style="color-interpolation-filters:sRGB"
-       id="filter899-2">
+       id="filter899-2"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -1278,7 +1298,11 @@
        style="color-interpolation-filters:sRGB"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        inkscape:menu="Bevels"
-       inkscape:label="Button">
+       inkscape:label="Button"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-9-0"
          result="result0"
@@ -1344,7 +1368,11 @@
        style="color-interpolation-filters:sRGB"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        inkscape:menu="Bevels"
-       inkscape:label="Button">
+       inkscape:label="Button"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-2-6"
          result="result0"
@@ -1410,7 +1438,11 @@
        inkscape:menu="Bevels"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        style="color-interpolation-filters:sRGB"
-       id="filter899-5-8-5">
+       id="filter899-5-8-5"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -1516,7 +1548,11 @@
        inkscape:menu="Bevels"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        style="color-interpolation-filters:sRGB"
-       id="filter899-1">
+       id="filter899-1"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -1582,7 +1618,11 @@
        style="color-interpolation-filters:sRGB"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        inkscape:menu="Bevels"
-       inkscape:label="Button">
+       inkscape:label="Button"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-9-4"
          result="result0"
@@ -1648,7 +1688,11 @@
        style="color-interpolation-filters:sRGB"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        inkscape:menu="Bevels"
-       inkscape:label="Button">
+       inkscape:label="Button"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-2-9"
          result="result0"
@@ -1714,7 +1758,11 @@
        inkscape:menu="Bevels"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        style="color-interpolation-filters:sRGB"
-       id="filter899-5-8-37">
+       id="filter899-5-8-37"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -1820,7 +1868,11 @@
        style="color-interpolation-filters:sRGB"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        inkscape:menu="Bevels"
-       inkscape:label="Button">
+       inkscape:label="Button"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-3-2"
          result="result0"
@@ -1886,7 +1938,11 @@
        inkscape:menu="Bevels"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        style="color-interpolation-filters:sRGB"
-       id="filter899-3-8-9">
+       id="filter899-3-8-9"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -1952,7 +2008,11 @@
        inkscape:menu="Bevels"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        style="color-interpolation-filters:sRGB"
-       id="filter899-5-3-4">
+       id="filter899-5-3-4"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          stdDeviation="2.3"
          in="SourceAlpha"
@@ -2018,7 +2078,11 @@
        style="color-interpolation-filters:sRGB"
        inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
        inkscape:menu="Bevels"
-       inkscape:label="Button">
+       inkscape:label="Button"
+       x="-4.1534352"
+       y="-2.5751296"
+       width="9.3068705"
+       height="6.1502592">
       <feGaussianBlur
          id="feGaussianBlur873-2-4-1-2"
          result="result0"
@@ -2144,7 +2208,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter76734">
+       id="filter76734"
+       x="-0.0012101891"
+       y="-0.0017767498"
+       width="1.0024204"
+       height="1.0035535">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3047,7 +3115,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77070">
+       id="filter77070"
+       x="-0.02369846"
+       y="-0.065810959"
+       width="1.0236985"
+       height="1.1070979">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3176,7 +3248,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77118">
+       id="filter77118"
+       x="-0.0036079997"
+       y="-0.0085281758"
+       width="1.007216"
+       height="1.0170564">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3219,7 +3295,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77134">
+       id="filter77134"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3262,7 +3342,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77150">
+       id="filter77150"
+       x="-4.153435"
+       y="-2.5682409"
+       width="9.3068699"
+       height="6.1338066">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3305,7 +3389,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77166">
+       id="filter77166"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3348,7 +3436,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77182">
+       id="filter77182"
+       x="-4.1534351"
+       y="-2.5613905"
+       width="9.3068702"
+       height="6.1174457">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3391,7 +3483,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77198">
+       id="filter77198"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3434,7 +3530,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77214">
+       id="filter77214"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3477,7 +3577,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77230">
+       id="filter77230"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3520,7 +3624,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77246">
+       id="filter77246"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3563,7 +3671,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77262">
+       id="filter77262"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3606,7 +3718,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77278">
+       id="filter77278"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3649,7 +3765,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77294">
+       id="filter77294"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3692,7 +3812,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77310">
+       id="filter77310"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3735,7 +3859,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77326">
+       id="filter77326"
+       x="-0.0036079997"
+       y="-0.0085281758"
+       width="1.007216"
+       height="1.0170564">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3778,7 +3906,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77342">
+       id="filter77342"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3821,7 +3953,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77358">
+       id="filter77358"
+       x="-4.153435"
+       y="-2.5682409"
+       width="9.3068699"
+       height="6.1338066">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3864,7 +4000,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77374">
+       id="filter77374"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3907,7 +4047,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77390">
+       id="filter77390"
+       x="-4.1534351"
+       y="-2.5613905"
+       width="9.3068702"
+       height="6.1174457">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3950,7 +4094,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77406">
+       id="filter77406"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -3993,7 +4141,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77422">
+       id="filter77422"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4036,7 +4188,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77438">
+       id="filter77438"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4079,7 +4235,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77454">
+       id="filter77454"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4122,7 +4282,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77470">
+       id="filter77470"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4165,7 +4329,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77486">
+       id="filter77486"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4208,7 +4376,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77502">
+       id="filter77502"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4251,7 +4423,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77518">
+       id="filter77518"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4294,7 +4470,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77534">
+       id="filter77534"
+       x="-0.0036079997"
+       y="-0.0085281758"
+       width="1.007216"
+       height="1.0170564">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4337,7 +4517,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77550">
+       id="filter77550"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4380,7 +4564,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77566">
+       id="filter77566"
+       x="-4.153435"
+       y="-2.5682409"
+       width="9.3068699"
+       height="6.1338066">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4423,7 +4611,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77582">
+       id="filter77582"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4466,7 +4658,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77598">
+       id="filter77598"
+       x="-4.1534351"
+       y="-2.5613905"
+       width="9.3068702"
+       height="6.1174457">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4509,7 +4705,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77614">
+       id="filter77614"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4552,7 +4752,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77630">
+       id="filter77630"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4595,7 +4799,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77646">
+       id="filter77646"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4638,7 +4846,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77662">
+       id="filter77662"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4681,7 +4893,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77678">
+       id="filter77678"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4724,7 +4940,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77694">
+       id="filter77694"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4767,7 +4987,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77710">
+       id="filter77710"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4810,7 +5034,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77726">
+       id="filter77726"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4853,7 +5081,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77742">
+       id="filter77742"
+       x="-0.0036079997"
+       y="-0.0085281758"
+       width="1.007216"
+       height="1.0170564">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4896,7 +5128,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77758">
+       id="filter77758"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4939,7 +5175,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77774">
+       id="filter77774"
+       x="-4.153435"
+       y="-2.5682409"
+       width="9.3068699"
+       height="6.1338066">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -4982,7 +5222,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77790">
+       id="filter77790"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5025,7 +5269,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77806">
+       id="filter77806"
+       x="-4.1534351"
+       y="-2.5613905"
+       width="9.3068702"
+       height="6.1174457">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5068,7 +5316,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77822">
+       id="filter77822"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5111,7 +5363,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77838">
+       id="filter77838"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5154,7 +5410,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77854">
+       id="filter77854"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5197,7 +5457,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77870">
+       id="filter77870"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5240,7 +5504,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77886">
+       id="filter77886"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5283,7 +5551,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77902">
+       id="filter77902"
+       x="-4.1534352"
+       y="-2.5613913"
+       width="9.3068705"
+       height="6.1174476">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5326,7 +5598,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77918">
+       id="filter77918"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5369,7 +5645,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77934">
+       id="filter77934"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5412,7 +5692,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77950">
+       id="filter77950"
+       x="0"
+       y="-0.015799651"
+       width="1.007728"
+       height="1.0315993">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5455,7 +5739,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77966">
+       id="filter77966"
+       x="0"
+       y="-0.015799651"
+       width="1.007728"
+       height="1.0315993">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5498,7 +5786,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Quadritone fantasy"
-       id="filter77982">
+       id="filter77982"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -5541,7 +5833,11 @@
     <filter
        id="filter76734-6"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.0012107265"
+       y="-0.0017775387"
+       width="1.0024215"
+       height="1.0035551">
       <feColorMatrix
          id="feColorMatrix76720-1"
          result="colormatrix1"
@@ -5597,7 +5893,11 @@
     <filter
        id="filter77070-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.023731425"
+       y="-0.065719598"
+       width="1.0237314"
+       height="1.1069507">
       <feColorMatrix
          id="feColorMatrix77056-8"
          result="colormatrix1"
@@ -5643,7 +5943,11 @@
     <filter
        id="filter76750-5"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          id="feColorMatrix76736-3"
          result="colormatrix1"
@@ -5689,7 +5993,11 @@
     <filter
        id="filter76766-5"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          id="feColorMatrix76752-8"
          result="colormatrix1"
@@ -5735,7 +6043,11 @@
     <filter
        id="filter76782-7"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          id="feColorMatrix76768-5"
          result="colormatrix1"
@@ -5781,7 +6093,11 @@
     <filter
        id="filter76798-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76784-2"
          result="colormatrix1"
@@ -5827,7 +6143,11 @@
     <filter
        id="filter76814-7"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76800-5"
          result="colormatrix1"
@@ -5873,7 +6193,11 @@
     <filter
        id="filter76830-7"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76816-5"
          result="colormatrix1"
@@ -5919,7 +6243,11 @@
     <filter
        id="filter76846-2"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76832-7"
          result="colormatrix1"
@@ -5965,7 +6293,11 @@
     <filter
        id="filter76862-8"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76848-5"
          result="colormatrix1"
@@ -6011,7 +6343,11 @@
     <filter
        id="filter76878-9"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76864-7"
          result="colormatrix1"
@@ -6057,7 +6393,11 @@
     <filter
        id="filter76894-3"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76880-5"
          result="colormatrix1"
@@ -6103,7 +6443,11 @@
     <filter
        id="filter76910-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76896-0"
          result="colormatrix1"
@@ -6149,7 +6493,11 @@
     <filter
        id="filter76926-2"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76912-3"
          result="colormatrix1"
@@ -6195,7 +6543,11 @@
     <filter
        id="filter76942-3"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76928-1"
          result="colormatrix1"
@@ -6241,7 +6593,11 @@
     <filter
        id="filter76958-1"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76944-1"
          result="colormatrix1"
@@ -6287,7 +6643,11 @@
     <filter
        id="filter76974-4"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76960-7"
          result="colormatrix1"
@@ -6333,7 +6693,11 @@
     <filter
        id="filter76990-8"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76976-3"
          result="colormatrix1"
@@ -6379,7 +6743,11 @@
     <filter
        id="filter77006-4"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          id="feColorMatrix76992-0"
          result="colormatrix1"
@@ -6446,7 +6814,11 @@
     <filter
        id="filter76750-8"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          id="feColorMatrix76736-36"
          result="colormatrix1"
@@ -6492,7 +6864,11 @@
     <filter
        id="filter76766-2"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          id="feColorMatrix76752-7"
          result="colormatrix1"
@@ -6538,7 +6914,11 @@
     <filter
        id="filter76782-6"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          id="feColorMatrix76768-55"
          result="colormatrix1"
@@ -6584,7 +6964,11 @@
     <filter
        id="filter76798-3"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76784-6"
          result="colormatrix1"
@@ -6630,7 +7014,11 @@
     <filter
        id="filter76814-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76800-2"
          result="colormatrix1"
@@ -6676,7 +7064,11 @@
     <filter
        id="filter76830-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76816-8"
          result="colormatrix1"
@@ -6722,7 +7114,11 @@
     <filter
        id="filter76846-1"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76832-4"
          result="colormatrix1"
@@ -6768,7 +7164,11 @@
     <filter
        id="filter76862-3"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76848-4"
          result="colormatrix1"
@@ -6814,7 +7214,11 @@
     <filter
        id="filter76878-8"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76864-0"
          result="colormatrix1"
@@ -6860,7 +7264,11 @@
     <filter
        id="filter76894-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76880-1"
          result="colormatrix1"
@@ -6906,7 +7314,11 @@
     <filter
        id="filter76910-1"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76896-2"
          result="colormatrix1"
@@ -6952,7 +7364,11 @@
     <filter
        id="filter76926-5"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76912-1"
          result="colormatrix1"
@@ -6998,7 +7414,11 @@
     <filter
        id="filter76942-6"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76928-9"
          result="colormatrix1"
@@ -7044,7 +7464,11 @@
     <filter
        id="filter76958-9"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76944-5"
          result="colormatrix1"
@@ -7090,7 +7514,11 @@
     <filter
        id="filter76974-43"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76960-9"
          result="colormatrix1"
@@ -7136,7 +7564,11 @@
     <filter
        id="filter76990-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76976-0"
          result="colormatrix1"
@@ -7182,7 +7614,11 @@
     <filter
        id="filter77006-2"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          id="feColorMatrix76992-8"
          result="colormatrix1"
@@ -7239,7 +7675,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76750-5-3">
+       id="filter76750-5-3"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7285,7 +7725,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76766-5-1">
+       id="filter76766-5-1"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7331,7 +7775,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76782-7-5">
+       id="filter76782-7-5"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7377,7 +7825,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76798-0-5">
+       id="filter76798-0-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7423,7 +7875,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76814-7-1">
+       id="filter76814-7-1"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7469,7 +7925,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76830-7-6">
+       id="filter76830-7-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7515,7 +7975,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76846-2-1">
+       id="filter76846-2-1"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7561,7 +8025,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76862-8-2">
+       id="filter76862-8-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7607,7 +8075,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76878-9-8">
+       id="filter76878-9-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7653,7 +8125,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76894-3-4">
+       id="filter76894-3-4"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7699,7 +8175,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76910-0-6">
+       id="filter76910-0-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7745,7 +8225,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76926-2-8">
+       id="filter76926-2-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7791,7 +8275,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76942-3-6">
+       id="filter76942-3-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7837,7 +8325,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76958-1-5">
+       id="filter76958-1-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7883,7 +8375,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76974-4-6">
+       id="filter76974-4-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7929,7 +8425,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76990-8-9">
+       id="filter76990-8-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -7975,7 +8475,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter77006-4-5">
+       id="filter77006-4-5"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8052,7 +8556,11 @@
     <filter
        id="filter76750-81"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          id="feColorMatrix76736-1"
          result="colormatrix1"
@@ -8098,7 +8606,11 @@
     <filter
        id="filter76766-24"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          id="feColorMatrix76752-6"
          result="colormatrix1"
@@ -8144,7 +8656,11 @@
     <filter
        id="filter76782-5"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          id="feColorMatrix76768-4"
          result="colormatrix1"
@@ -8190,7 +8706,11 @@
     <filter
        id="filter76798-05"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76784-4"
          result="colormatrix1"
@@ -8236,7 +8756,11 @@
     <filter
        id="filter76814-00"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76800-4"
          result="colormatrix1"
@@ -8282,7 +8806,11 @@
     <filter
        id="filter76830-1"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76816-6"
          result="colormatrix1"
@@ -8328,7 +8856,11 @@
     <filter
        id="filter76846-8"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76832-1"
          result="colormatrix1"
@@ -8374,7 +8906,11 @@
     <filter
        id="filter76862-6"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76848-45"
          result="colormatrix1"
@@ -8420,7 +8956,11 @@
     <filter
        id="filter76878-2"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76864-9"
          result="colormatrix1"
@@ -8466,7 +9006,11 @@
     <filter
        id="filter76894-1"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76880-51"
          result="colormatrix1"
@@ -8512,7 +9056,11 @@
     <filter
        id="filter76910-8"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76896-6"
          result="colormatrix1"
@@ -8558,7 +9106,11 @@
     <filter
        id="filter76926-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76912-8"
          result="colormatrix1"
@@ -8604,7 +9156,11 @@
     <filter
        id="filter76942-4"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76928-7"
          result="colormatrix1"
@@ -8650,7 +9206,11 @@
     <filter
        id="filter76958-4"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76944-8"
          result="colormatrix1"
@@ -8696,7 +9256,11 @@
     <filter
        id="filter76974-5"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76960-6"
          result="colormatrix1"
@@ -8742,7 +9306,11 @@
     <filter
        id="filter76990-4"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76976-2"
          result="colormatrix1"
@@ -8788,7 +9356,11 @@
     <filter
        id="filter77006-5"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          id="feColorMatrix76992-9"
          result="colormatrix1"
@@ -8845,7 +9417,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76750-5-4">
+       id="filter76750-5-4"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8891,7 +9467,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76766-5-0">
+       id="filter76766-5-0"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8937,7 +9517,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76782-7-1">
+       id="filter76782-7-1"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -8983,7 +9567,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76798-0-1">
+       id="filter76798-0-1"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9029,7 +9617,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76814-7-3">
+       id="filter76814-7-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9075,7 +9667,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76830-7-0">
+       id="filter76830-7-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9121,7 +9717,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76846-2-9">
+       id="filter76846-2-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9167,7 +9767,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76862-8-8">
+       id="filter76862-8-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9213,7 +9817,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76878-9-5">
+       id="filter76878-9-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9259,7 +9867,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76894-3-7">
+       id="filter76894-3-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9305,7 +9917,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76910-0-0">
+       id="filter76910-0-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9351,7 +9967,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76926-2-3">
+       id="filter76926-2-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9397,7 +10017,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76942-3-0">
+       id="filter76942-3-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9443,7 +10067,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76958-1-3">
+       id="filter76958-1-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9489,7 +10117,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76974-4-7">
+       id="filter76974-4-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9535,7 +10167,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76990-8-7">
+       id="filter76990-8-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9581,7 +10217,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter77006-4-3">
+       id="filter77006-4-3"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9638,7 +10278,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76750-8-2">
+       id="filter76750-8-2"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9684,7 +10328,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76766-2-3">
+       id="filter76766-2-3"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9730,7 +10378,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76782-6-2">
+       id="filter76782-6-2"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9776,7 +10428,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76798-3-7">
+       id="filter76798-3-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9822,7 +10478,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76814-0-9">
+       id="filter76814-0-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9868,7 +10528,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76830-0-3">
+       id="filter76830-0-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9914,7 +10578,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76846-1-5">
+       id="filter76846-1-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -9960,7 +10628,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76862-3-4">
+       id="filter76862-3-4"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10006,7 +10678,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76878-8-2">
+       id="filter76878-8-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10052,7 +10728,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76894-0-7">
+       id="filter76894-0-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10098,7 +10778,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76910-1-7">
+       id="filter76910-1-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10144,7 +10828,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76926-5-6">
+       id="filter76926-5-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10190,7 +10878,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76942-6-4">
+       id="filter76942-6-4"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10236,7 +10928,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76958-9-9">
+       id="filter76958-9-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10282,7 +10978,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76974-43-3">
+       id="filter76974-43-3"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10328,7 +11028,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76990-0-2">
+       id="filter76990-0-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10374,7 +11078,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter77006-2-0">
+       id="filter77006-2-0"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -10431,7 +11139,11 @@
     <filter
        id="filter76750-5-3-8"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          id="feColorMatrix76736-3-9-5"
          result="colormatrix1"
@@ -10477,7 +11189,11 @@
     <filter
        id="filter76766-5-1-5"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          id="feColorMatrix76752-8-2-9"
          result="colormatrix1"
@@ -10523,7 +11239,11 @@
     <filter
        id="filter76782-7-5-4"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.22452536"
+       y="-0.0061773804"
+       width="1.4490507"
+       height="1.0123548">
       <feColorMatrix
          id="feColorMatrix76768-5-0-1"
          result="colormatrix1"
@@ -10569,7 +11289,11 @@
     <filter
        id="filter76798-0-5-8"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76784-2-5-7"
          result="colormatrix1"
@@ -10615,7 +11339,11 @@
     <filter
        id="filter76814-7-1-7"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76800-5-7-3"
          result="colormatrix1"
@@ -10661,7 +11389,11 @@
     <filter
        id="filter76830-7-6-3"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76816-5-7-5"
          result="colormatrix1"
@@ -10707,7 +11439,11 @@
     <filter
        id="filter76846-2-1-2"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76832-7-0-0"
          result="colormatrix1"
@@ -10753,7 +11489,11 @@
     <filter
        id="filter76862-8-2-3"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76848-5-5-3"
          result="colormatrix1"
@@ -10799,7 +11539,11 @@
     <filter
        id="filter76878-9-8-7"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76864-7-2-6"
          result="colormatrix1"
@@ -10845,7 +11589,11 @@
     <filter
        id="filter76894-3-4-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76880-5-0-9"
          result="colormatrix1"
@@ -10891,7 +11639,11 @@
     <filter
        id="filter76910-0-6-5"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76896-0-2-1"
          result="colormatrix1"
@@ -10937,7 +11689,11 @@
     <filter
        id="filter76926-2-8-9"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76912-3-2-0"
          result="colormatrix1"
@@ -10983,7 +11739,11 @@
     <filter
        id="filter76942-3-6-6"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76928-1-9-5"
          result="colormatrix1"
@@ -11029,7 +11789,11 @@
     <filter
        id="filter76958-1-5-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76944-1-2-7"
          result="colormatrix1"
@@ -11075,7 +11839,11 @@
     <filter
        id="filter76974-4-6-2"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76960-7-1-9"
          result="colormatrix1"
@@ -11121,7 +11889,11 @@
     <filter
        id="filter76990-8-9-9"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          id="feColorMatrix76976-3-3-0"
          result="colormatrix1"
@@ -11167,7 +11939,11 @@
     <filter
        id="filter77006-4-5-0"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.038799552"
+       y="-0.10975281"
+       width="1.0387996"
+       height="1.1097528">
       <feColorMatrix
          id="feColorMatrix76992-0-3-8"
          result="colormatrix1"
@@ -11282,7 +12058,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76750-58">
+       id="filter76750-58"
+       x="-0.015332277"
+       y="-0.0060585742"
+       width="1.0306646"
+       height="1.0121171">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11328,7 +12108,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76766-8">
+       id="filter76766-8"
+       x="-0.084233225"
+       y="-0.0051666359"
+       width="1.1684665"
+       height="1.0103333">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11374,7 +12158,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76782-1">
+       id="filter76782-1"
+       x="-0.18366164"
+       y="-0.0075520659"
+       width="1.3673233"
+       height="1.0151041">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11420,7 +12208,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76798-6">
+       id="filter76798-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11466,7 +12258,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76814-04">
+       id="filter76814-04"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11512,7 +12308,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76830-6">
+       id="filter76830-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11558,7 +12358,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76846-7">
+       id="filter76846-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11604,7 +12408,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76862-9">
+       id="filter76862-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11650,7 +12458,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76878-0">
+       id="filter76878-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11696,7 +12508,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76894-6">
+       id="filter76894-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11742,7 +12558,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76910-5">
+       id="filter76910-5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11788,7 +12608,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76926-8">
+       id="filter76926-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11834,7 +12658,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76942-34">
+       id="filter76942-34"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11880,7 +12708,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76958-98">
+       id="filter76958-98"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11926,7 +12758,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76974-9">
+       id="filter76974-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -11972,7 +12808,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter76990-2">
+       id="filter76990-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -12018,7 +12858,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter77006-1">
+       id="filter77006-1"
+       x="-0.038799406"
+       y="-0.10975272"
+       width="1.0387994"
+       height="1.1097527">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -12095,7 +12939,11 @@
     <filter
        id="filter77934-7"
        inkscape:label="Quadritone fantasy"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          id="feColorMatrix77920-7"
          result="colormatrix1"
@@ -12141,7 +12989,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Quadritone fantasy"
-       id="filter77934-7-8">
+       id="filter77934-7-8"
+       x="-0.11012524"
+       y="-0.11700807"
+       width="1.2202505"
+       height="1.2340161">
       <feColorMatrix
          in="SourceGraphic"
          type="hueRotate"
@@ -12184,30 +13036,80 @@
          result="blend2"
          id="feBlend77932-1-5" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Quadritone fantasy"
+       id="filter77950-0"
+       x="-0.043370012"
+       y="-0.043760845"
+       width="1.08674"
+       height="1.0875217">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="hueRotate"
+         values="333"
+         result="colormatrix1"
+         id="feColorMatrix77936-1" />
+      <feColorMatrix
+         type="matrix"
+         values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix77938-8" />
+      <feColorMatrix
+         type="hueRotate"
+         values="100"
+         result="colormatrix3"
+         id="feColorMatrix77940-0" />
+      <feBlend
+         in2="colormatrix3"
+         mode="normal"
+         result="blend1"
+         id="feBlend77942-7" />
+      <feColorMatrix
+         type="matrix"
+         values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 "
+         result="colormatrix4"
+         id="feColorMatrix77944-2" />
+      <feComposite
+         in="colormatrix4"
+         in2="blend1"
+         operator="arithmetic"
+         k2="0.4"
+         result="composite1"
+         id="feComposite77946-5"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in2="blend1"
+         mode="normal"
+         result="blend2"
+         id="feBlend77948-7" />
+    </filter>
   </defs>
   <sodipodi:namedview
-     inkscape:snap-to-guides="true"
+     inkscape:snap-to-guides="false"
      inkscape:snap-others="true"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3448597"
-     inkscape:cx="293.17779"
-     inkscape:cy="121.63371"
+     inkscape:zoom="2.6353184"
+     inkscape:cx="199.97584"
+     inkscape:cy="247.97763"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1792"
-     inkscape:window-height="1075"
+     inkscape:window-width="1372"
+     inkscape:window-height="969"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -12216,14 +13118,15 @@
      inkscape:snap-center="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
+     inkscape:object-nodes="false"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-text-baseline="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-text-baseline="false"
      inkscape:snap-nodes="true"
-     inkscape:snap-grids="true"
-     inkscape:snap-bbox-midpoints="true" />
+     inkscape:snap-grids="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5661">
     <rdf:RDF>
@@ -12232,7 +13135,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12441,6 +13344,62 @@
          id="path3314"
          inkscape:connector-curvature="0" />
     </g>
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6"
+       cx="23.125544"
+       cy="72.667984"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-9"
+       cx="23.125544"
+       cy="81.487473"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-4"
+       cx="29.89385"
+       cy="72.667984"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-7"
+       cx="29.859474"
+       cy="81.442764"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-7-2"
+       cx="44.137569"
+       cy="81.490715"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-4-4"
+       cx="44.171944"
+       cy="72.715935"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-9-4"
+       cx="37.403637"
+       cy="81.535423"
+       rx="2.5061588"
+       ry="2.5062509" />
+    <ellipse
+       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4126-6-8"
+       cx="37.403637"
+       cy="72.715935"
+       rx="2.5061588"
+       ry="2.5062509" />
   </g>
   <g
      inkscape:label="[export] Unsorted UI"
@@ -13062,7 +14021,7 @@
     </g>
     <g
        transform="translate(-7.841608,7.8457037)"
-       id="g4124">
+       id="channelToggle1">
       <rect
          style="display:inline;opacity:1;mix-blend-mode:normal;fill:#5d6c7c;fill-opacity:1;stroke:#060805;stroke-width:0.352;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77950)"
          id="rect4117"
@@ -13082,7 +14041,7 @@
     </g>
     <g
        transform="translate(30.324954,9.5608716)"
-       id="g4236">
+       id="algoFlip1">
       <rect
          style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect4178"
@@ -14348,6 +15307,67 @@
        cy="30.572662"
        rx="0.6258738"
        ry="0.58905768" />
+    <g
+       transform="translate(6.4364842,7.8936674)"
+       id="channelToggle2"
+       style="display:inline">
+      <rect
+         style="display:inline;opacity:1;mix-blend-mode:normal;fill:#5d6c7c;fill-opacity:1;stroke:#060805;stroke-width:0.352;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter77950-0)"
+         id="rect4117-8"
+         width="4.0581036"
+         height="4.0218601"
+         x="38.570431"
+         y="62.841175"
+         ry="0.15447049"
+         transform="matrix(0.73862095,0,0,0.73862095,10.504599,17.052553)" />
+      <ellipse
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:#060805;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4120-6"
+         cx="40.527615"
+         cy="63.87167"
+         rx="0.35303468"
+         ry="0.41922867" />
+    </g>
+    <g
+       transform="translate(44.603047,9.6088342)"
+       id="algoFlip2"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#616161;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4178-6"
+         width="6.2471514"
+         height="2.3426816"
+         x="5.2537165"
+         y="62.20277"
+         ry="0.3456887" />
+      <path
+         style="fill:none;stroke:#747474;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 5.2537166,62.202772 h 6.2471514 v 2.342685"
+         id="path4182-3"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g4214-9"
+         transform="translate(3.9654484,-2.1389542)">
+        <rect
+           ry="0.3456887"
+           y="64.420296"
+           x="1.2882681"
+           height="2.2641048"
+           width="2.1910694"
+           id="rect4184-5"
+           style="fill:#323232;fill-opacity:1;stroke:#747474;stroke-width:0.152;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4186-1"
+           d="m 2.9410543,64.434197 v 2.240018"
+           style="fill:none;stroke:#757575;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="display:inline;fill:none;stroke:#757575;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 2.3726921,64.434197 v 2.240018"
+           id="path4186-0-1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
   <g
      inkscape:label="[export] legend"
@@ -14364,6 +15384,11 @@
        id="path4131"
        d="m 32.955727,59.822242 v 24.54108"
        style="fill:none;stroke:#7e7e7e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4131-5"
+       d="m 47.337913,60.084901 v 24.54108"
+       style="display:inline;fill:none;stroke:#7e7e7e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600912px;fill:#b3b3b3;stroke-width:0.187785"
@@ -14664,6 +15689,51 @@
          x="34.608868"
          y="93.245789"
          style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0356502">RND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600912px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="34.705635"
+       y="77.161774"
+       id="text2276-2"><tspan
+         sodipodi:role="line"
+         id="tspan2274-7"
+         x="34.705635"
+         y="77.161774"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         dx="-0.10646084">SHAPE</tspan></text>
+    <text
+       id="text2276-8-5"
+       y="77.181816"
+       x="40.693588"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       xml:space="preserve"><tspan
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785"
+         y="77.181816"
+         x="40.693588"
+         id="tspan2274-1-0"
+         sodipodi:role="line">HUMAN.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="41.601101"
+       y="68.173676"
+       id="text2276-0-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan2274-6-1-2"
+         x="41.601101"
+         y="68.173676"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">BODY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.50228px;line-height:1.25;font-family:'Geometric Sans Serif v1';-inkscape-font-specification:'Geometric Sans Serif v1';letter-spacing:-0.0600911px;display:inline;fill:#b3b3b3;stroke-width:0.187785"
+       x="35.140224"
+       y="68.340668"
+       id="text2276-0-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan2274-6-0-8"
+         x="35.140224"
+         y="68.340668"
+         style="letter-spacing:-0.0882589px;fill:#b3b3b3;stroke-width:0.187785">TUNE</tspan></text>
   </g>
   <g
      style="display:inline"
@@ -14915,13 +15985,6 @@
      id="layer4"
      inkscape:groupmode="layer"
      style="display:inline">
-    <ellipse
-       style="display:inline;opacity:0.385852;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4126-6"
-       cx="23.125544"
-       cy="72.667984"
-       rx="2.5061588"
-       ry="2.5062509" />
     <g
        id="tuneKnob1"
        style="display:inline"
@@ -14934,27 +15997,84 @@
          rx="2.5061588"
          ry="2.5062509" />
     </g>
-    <ellipse
-       style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4126-2"
-       cx="29.268557"
-       cy="71.590889"
-       rx="2.5061588"
-       ry="2.5062509" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4126-4"
-       cx="22.596376"
-       cy="80.637672"
-       rx="2.5061588"
-       ry="2.5062509" />
-    <ellipse
-       ry="2.5062509"
-       rx="2.5061588"
-       cy="80.637672"
-       cx="29.26499"
-       id="path4126-2-9"
-       style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="bodyKnob1">
+      <ellipse
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4126-2"
+         cx="29.268557"
+         cy="71.590889"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="shapeKnob1">
+      <ellipse
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4126-4"
+         cx="22.596376"
+         cy="80.637672"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="humanKnob1">
+      <ellipse
+         ry="2.5062509"
+         rx="2.5061588"
+         cy="80.637672"
+         cx="29.26499"
+         id="path4126-2-9"
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="tuneKnob2"
+       style="display:inline"
+       transform="translate(3.7142958,-7.9350607)">
+      <ellipse
+         style="opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="randomId333-5"
+         cx="33.160172"
+         cy="79.592674"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="bodyKnob2"
+       style="display:inline"
+       transform="translate(14.278093,0.04796376)">
+      <ellipse
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4126-2-6"
+         cx="29.268557"
+         cy="71.590889"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="shapeKnob2"
+       style="display:inline"
+       transform="translate(14.278093,0.04796376)">
+      <ellipse
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4126-4-2"
+         cx="22.596376"
+         cy="80.637672"
+         rx="2.5061588"
+         ry="2.5062509" />
+    </g>
+    <g
+       id="humanKnob2"
+       style="display:inline"
+       transform="translate(14.278093,0.04796376)">
+      <ellipse
+         ry="2.5062509"
+         rx="2.5061588"
+         cy="80.637672"
+         cx="29.26499"
+         id="path4126-2-9-3"
+         style="display:inline;opacity:1;fill:#82817e;fill-opacity:1;stroke:#060805;stroke-width:0.136499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      style="display:inline"

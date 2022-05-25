@@ -10,8 +10,20 @@ function clearAll() {
 
 function toggleStep(pattern, step, channel) {
   let value = mem.get(pattern, step);
-  let newValue = binUtils.setBits(value, [channel]);
+
+  let newValue = binUtils.flipBit(value, channel);
   mem.set(pattern, step, newValue);
+  return binUtils.testBit(newValue, channel);
+}
+
+function fillStepValues(steps, channel) {
+  let i = 0;
+  steps.forEach((a) => {
+    a.refresh(
+      binUtils.testBit(mem.get(transport.getCurrentPattern(), i), channel)
+    );
+    i++;
+  });
 }
 
 function advanceStep() {
@@ -29,4 +41,11 @@ function addStepListener(ctrl) {
 
 const MAX_STEPS = 16;
 
-export { addStepListener, toggleStep, advanceStep, clearAll, MAX_STEPS };
+export {
+  addStepListener,
+  toggleStep,
+  advanceStep,
+  clearAll,
+  fillStepValues,
+  MAX_STEPS,
+};

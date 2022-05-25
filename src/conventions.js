@@ -1,4 +1,9 @@
 const ON = "on";
 const OFF = "off";
 
-export { ON, OFF };
+function getStateClass(stem, state) {
+  let postfix = state ? ON : OFF;
+  return `${stem}-${postfix}`;
+}
+
+export { getStateClass };
